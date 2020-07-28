@@ -1,10 +1,3 @@
----
-layout : post
-title : "인공지능으로 가위바위보 분류기 만들기"
-cateogry : AI
-date : 2020-07-28 17:00
----
-
 # 프로젝트 : 가위바위보 분류기 만들기
 
 가위바위보 분류기를 만들어보자!
@@ -165,9 +158,6 @@ x_train_norm = x_train/255.0
 
 print("x_train shape : {}".format(x_train.shape))
 print("y_train shape : {}".format(y_train.shape))
-
-dffdf 
-
 ```
 
     학습 데이터 x_train의 개수는  300 입니다.
