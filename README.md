@@ -17,5 +17,6 @@ aiffel 1기 교육과정 정리하기
     - Fundamental 3 : [터미널로 배우는 리눅스 운영체제](./Week1/Funamental34.md)
     - Fundamental 4 : Python으로 코딩 시작하기
     - Fundamental 5 : 머신러닝의 기본 아이디어
-    - Exploration 1 : [MNIST 손글씨 분류](./Week1/Mnist-practice/ipynb), [가위바위보 분류기 만들기](./Week1/Rock-Scissor-Paper.md)
-    - Exploration 2 : Iris의 품종 분류하기
+    - Exploration 1 : [MNIST 손글씨 분류](./Week1/Mnist-practice.ipynb), [가위바위보 분류기 만들기](./Week1/Rock-Scissor-Paper.md)
+    - Exploration 2 : [Iris의 품종 분류하기](./Week1/Iris-classifier.ipynb), [scikit learn toy dataset classifier 만들기](./Week1/sklearn-toy-dataset-classifier.ipynb)
+
