@@ -10,6 +10,8 @@ aiffel 1기 교육과정 정리하기
 모두의 연구소와 함께하는 인공지능 전문가 양성 과정
 
 
+
+
 ## 풀잎 스쿨
 
 1. Deeplearning CS231n
@@ -21,11 +23,15 @@ aiffel 1기 교육과정 정리하기
 알고리즘 공부하는 풀잎스쿨
 
 
+
+
 ## Nonofficial Study
 
 1. Kaggle Master!
 
 데이터 분석 경진대회 플랫폼 케글을 통한 Data Science Insight 및 실전 경험 키우기
+
+
 
 
 ## Curriculum 
