@@ -21,6 +21,13 @@ aiffel 1기 교육과정 정리하기
 알고리즘 공부하는 풀잎스쿨
 
 
+## Nonofficial Study
+
+1. Kaggle Master!
+
+데이터 분석 경진대회 플랫폼 케글을 통한 Data Science Insight 및 실전 경험 키우기
+
+
 ## Curriculum 
 
 - Week 1
@@ -38,5 +45,5 @@ aiffel 1기 교육과정 정리하기
     - Fundamental 8 : Python 잘하는 척 해보자
     - Fundamental 9 : 사이킷런으로 구현해보는 머신러닝
     - Fundamental 10 : 딥러닝과 신경망의 본질
-    - Exploration 3 : 뉴스기사 크롤링 및 분ㄹ
+    - Exploration 3 : [뉴스기사 크롤링 및 카테고리 예측 모델](./Week2/Exploration3-NewsCrawling.ipynb)
     - Exploration 4 : 거울아 거울아, 나는 멍멍이상이니 아니면 냥이상이니
