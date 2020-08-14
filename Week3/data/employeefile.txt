@@ -1,0 +1,5 @@
+Ahn TaeHee, AITeam, 3, 3, 300
+Kim YoungJae, Sales, 9, 7, 600
+Son HoMin, Marketing, 4, 4, 350
+Park YoungA, Design, 1, 3, 320
+Lee EnJae, Development, 2, 1, 200

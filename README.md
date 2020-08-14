@@ -53,3 +53,12 @@ aiffel 1기 교육과정 정리하기
     - Fundamental 10 : 딥러닝과 신경망의 본질
     - Exploration 3 : [뉴스기사 크롤링 및 카테고리 예측 모델](./Week2/Exploration3-NewsCrawling.ipynb)
     - Exploration 4 : 거울아 거울아, 나는 멍멍이상이니 아니면 냥이상이니
+
+- Week 3
+    - Fundamental 11 : 텍스트의 다양한 변신. (문자열, 파일 다루기)
+    - Fundamental 12 : 데이터를 한눈에! Visualization
+    - Fundamental 13 : [가랏, 몬스터볼! 전설의 포켓몬 찾아 삼만리](./Week3/Fundamental13-Pokemon.ipynb)
+    - Fundamental 14 : Tkinter로 배우는 GUI 프로그래밍
+    - Fundamental 15 : 더 많이! 더 깔끔하게! 데이터를 관리하는 방법
+    - Exploration 5 : [날씨 좋은 월요일 오후 세시, 자전거 타는 사람은 몇명일까?](./Week3/Exploration5(4)-bike-regression.ipynb)
+    - Exploration 6 : [어제 오른 내 주식 시세, 과연 내일은?](./Week3/Exploration6(1).ipynb)
