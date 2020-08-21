@@ -62,3 +62,10 @@ aiffel 1기 교육과정 정리하기
     - Fundamental 15 : 더 많이! 더 깔끔하게! 데이터를 관리하는 방법
     - Exploration 5 : [날씨 좋은 월요일 오후 세시, 자전거 타는 사람은 몇명일까?](./Week3/Exploration5(4)-bike-regression.ipynb)
     - Exploration 6 : [어제 오른 내 주식 시세, 과연 내일은?](./Week3/Exploration6(1).ipynb)
+
+- Week 4
+    - Fundamental 16 : [다양한 데이터 전처리 기법](./Week4/Fundamental16.ipynb)
+    - Fundamental 17 : [그나저나 데이터는 어디서 가져오지? - 웹크롤링](./Week4/Fundamental17.ipynb)
+    - Fundamental 18 : [파이썬으로 이미지 파일 다루기](./Week4/Fundamental18.ipynb)
+    - Exploration 7 : [아이유팬이 좋아할만한 다른 아티스트 찾기](./Week4/Exploration7\(1\).ipynb)
+    - Exploration 8 : [머신러닝 캐글 실습 - House Price Prediction](./Week4/Exploration8\(1\).ipynb)
