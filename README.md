@@ -22,7 +22,7 @@ aiffel 1기 교육과정 정리하기
 
 알고리즘 공부하는 풀잎스쿨
 
-
+<br/>
 
 
 ## Nonofficial Study
@@ -32,6 +32,7 @@ aiffel 1기 교육과정 정리하기
 데이터 분석 경진대회 플랫폼 케글을 통한 Data Science Insight 및 실전 경험 키우기
 
 
+<br/>
 
 
 ## Curriculum 
