@@ -72,8 +72,8 @@ aiffel 1기 교육과정 정리하기
     - Exploration 8 : [머신러닝 캐글 실습 - House Price Prediction](./Week4/Exploration8\(1\).ipynb)
 
 - Week 5
-    - Fundamental 19 : 확률과 확률분호
-    - Fundamental 20 : SQL을 이용해 DB와 대화해보자
+    - Fundamental 19 : 확률과 확률분포
+    - Fundamental 20 : [SQL을 이용해 DB와 대화해보자](./Week5/Fundamental20.ipynb)
     - Fundamental 21 : Likelihood (MLE. MAP 개념)
     - Fundamental 22 : 웹앱과 배포 (Flask를 이용하여 웹앱 만들어보기)
     - Fundamental 23 : 이미지 분류기 동작 원리
