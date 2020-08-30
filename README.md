@@ -77,3 +77,5 @@ aiffel 1기 교육과정 정리하기
     - Fundamental 21 : Likelihood (MLE. MAP 개념)
     - Fundamental 22 : 웹앱과 배포 (Flask를 이용하여 웹앱 만들어보기)
     - Fundamental 23 : 이미지 분류기 동작 원리
+
+- Week 6
