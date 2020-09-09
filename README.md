@@ -79,3 +79,19 @@ aiffel 1기 교육과정 정리하기
     - Fundamental 23 : 이미지 분류기 동작 원리
 
 - Week 6
+    - Fundamental 24 : [Evaluation Metric](./Week6/Fundamental24.ipynb)
+    - Fundamental 25 : [사이킷런을 활용한 추천 시스템 입문](./Week6/Fundamental25.ipynb)
+    - Fundamental 26 : [TF2 API 개요](./Week6/Fundamental26.ipynb)
+    - Fundamental 27 : [컴퓨터 파워 UP! (병렬프로그래밍과 동시성)](./Week6/Fundamental27.ipynb)
+    - Fundamental 28 : [딥네트워크, 서로 뭐가 다른거죠?](./Week6/Fundamental28.ipynb)
+    - Exploration 9 : [RNN으로 영화 리뷰 감성 분류하기](./Week6/Exploration9\(1\).ipynb)
+    - Exploration 10 : [스노우스티커, 일단 한번 만들어보자!](./Week6/Exploration10\(1\).ipynb)
+
+- Week 7
+    - Fundamental 29 : 선형 대수 기초
+    - Fundamental 30 : 딥러닝 레이어의 이해 (1)
+    - Fundamental 31 : Gradient Descent - [여러가지 optimizer](./Week6/Fundamental31.md)
+    - Fundamental 32 : 딥러닝 레이어의 이해 (2)
+    - Fundamental 33 : 맵리듀스로 그리는 빅데이터 지도
+    - Exploration 11 : [작사가 인공지능 만들기](./Week6/Exploration11\(1\).ipynb)
+    - Exploration 12 : 나랑 닮은 연예인은 누구?
