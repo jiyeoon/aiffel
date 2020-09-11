@@ -5,7 +5,6 @@ aiffel 1기 교육과정 정리하기
 
 ![img](asset/aiffel.png)
 
-<https://aiffel.io/>
 
 모두의 연구소와 함께하는 인공지능 전문가 양성 과정
 
