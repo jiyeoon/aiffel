@@ -89,8 +89,8 @@ aiffel 1기 교육과정 정리하기
 - Week 7
     - Fundamental 29 : 선형 대수 기초
     - Fundamental 30 : 딥러닝 레이어의 이해 (1)
-    - Fundamental 31 : Gradient Descent - [여러가지 optimizer](./Week6/Fundamental31.md)
+    - Fundamental 31 : Gradient Descent - [여러가지 optimizer](./Week7/Fundamental31.md)
     - Fundamental 32 : 딥러닝 레이어의 이해 (2)
-    - Fundamental 33 : 맵리듀스로 그리는 빅데이터 지도
-    - Exploration 11 : [작사가 인공지능 만들기](./Week6/Exploration11\(1\).ipynb)
-    - Exploration 12 : 나랑 닮은 연예인은 누구?
+    - Fundamental 33 : [맵리듀스로 그리는 빅데이터 지도](./Week7/Fundamental33.ipynb)
+    - Exploration 11 : [작사가 인공지능 만들기](./Week7/Exploration11\(1\).ipynb)
+    - Exploration 12 : [나랑 닮은 연예인은 누구?](./Week7/Exploration12\(2\).ipynb)
