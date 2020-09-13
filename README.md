@@ -26,9 +26,10 @@ aiffel 1기 교육과정 정리하기
 
 ## Nonofficial Study
 
-1. Kaggle Master!
+1. [Kaggle Master!](./kaggle_study/README.md)
 
 데이터 분석 경진대회 플랫폼 케글을 통한 Data Science Insight 및 실전 경험 키우기
+
 
 
 <br/>
