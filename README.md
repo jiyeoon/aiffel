@@ -95,3 +95,12 @@ aiffel 1기 교육과정 정리하기
     - Fundamental 33 : [맵리듀스로 그리는 빅데이터 지도](./Week7/Fundamental33.ipynb)
     - Exploration 11 : [작사가 인공지능 만들기](./Week7/Exploration11\(1\).ipynb)
     - Exploration 12 : [나랑 닮은 연예인은 누구?](./Week7/Exploration12\(2\).ipynb)
+
+- Week 8
+    - Fundamental 34 : 활성화 함수의 이해
+    - Fundamental 35 : 파이썬으로 이미지 파일 다루기
+    - Fundamental 36 : PCA는 내친구
+    - Fundamental 37 : 차원축소와 시각화
+    - Fundamental 38 : Backpropagation 원리
+    - Exploration 13 : Face2Emoji 모바일 웹앱 만들기
+    - Exploration 14 : [인물사진을 만들어보자](./Week8/Exploration14\(1\).ipynb)
