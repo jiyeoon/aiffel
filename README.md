@@ -104,3 +104,5 @@ aiffel 1기 교육과정 정리하기
     - Fundamental 38 : Backpropagation 원리
     - Exploration 13 : Face2Emoji 모바일 웹앱 만들기
     - Exploration 14 : [인물사진을 만들어보자](./Week8/Exploration14\(1\).ipynb)
+
+- Week 9
