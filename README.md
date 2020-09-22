@@ -74,7 +74,7 @@ aiffel 1기 교육과정 정리하기
 - Week 5
     - Fundamental 19 : 확률과 확률분포
     - Fundamental 20 : [SQL을 이용해 DB와 대화해보자](./Week5/Fundamental20.ipynb)
-    - Fundamental 21 : Likelihood (MLE. MAP 개념)
+    - Fundamental 21 : [Likelihood (MLE. MAP 개념)](./Week5/Fundamental21.ipynb)
     - Fundamental 22 : 웹앱과 배포 (Flask를 이용하여 웹앱 만들어보기)
     - Fundamental 23 : 이미지 분류기 동작 원리
 
@@ -106,3 +106,6 @@ aiffel 1기 교육과정 정리하기
     - Exploration 14 : [인물사진을 만들어보자](./Week8/Exploration14\(1\).ipynb)
 
 - Week 9
+    - Fundamental 39 : [빅데이터 생태계](./Week8/Fundamental39\(4\).ipynb)
+    - Fundamental 40 : [정보이론 톺아보기](./Week9/Fundamental40.ipynb)
+    - Exploration 15 : 번역기를 만들어보자
