@@ -109,3 +109,5 @@ aiffel 1기 교육과정 정리하기
     - Fundamental 39 : [빅데이터 생태계](./Week8/Fundamental39\(4\).ipynb)
     - Fundamental 40 : [정보이론 톺아보기](./Week9/Fundamental40.ipynb)
     - Exploration 15 : 번역기를 만들어보자
+
+- Week 10
