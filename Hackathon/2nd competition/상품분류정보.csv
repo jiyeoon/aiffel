@@ -1,0 +1,1668 @@
+pd_c,clac_nm1,clac_nm2,clac_nm3
+1,Automotive Products,Automotive Replacement Repair / Maintanance Kits,Automobile Oil / Additives
+2,Automotive Products,Automotive Replacement Repair / Maintanance Kits,Car Lights
+3,Automotive Products,Automotive Replacement Repair / Maintanance Kits,Car Paint
+4,Automotive Products,Automotive Replacement Repair / Maintanance Kits,Filters
+5,Automotive Products,Automotive Replacement Repair / Maintanance Kits,Wiper Blades
+6,Automotive Products,Car Accessories,Car Air Fresheners
+7,Automotive Products,Car Accessories,Car Interior Accessories
+8,Automotive Products,Car Accessories,Car Mirrors
+9,Automotive Products,Car Accessories,Car Exterior Accessories
+10,Automotive Products,Car Accessories,Mobile-phone Accessories
+11,Automotive Products,Car Accessories,Notice Boards
+12,Automotive Products,Car Accessories,Steering Wheel Accessories
+13,Automotive Products,Car Accessories,Storage / Organization Accessories
+14,Automotive Products,Car Accessories,Sun Protection Accessories
+15,Automotive Products,Car Safety Equipment,Accident Prevention Equipment
+16,Automotive Products,Car Safety Equipment,Snow Chains
+17,Automotive Products,Car Sound Systems / Electronics,Black Box
+18,Automotive Products,Car Sound Systems / Electronics,Car Chargers
+19,Automotive Products,Car Sound Systems / Electronics,Other Car Electronics
+20,Automotive Products,Car Wash Equipment,Car Cleaners
+21,Automotive Products,Car Wash Equipment,Car Cleaners / Car Polishes
+22,Automotive Products,Car Wash Equipment,Car Cleaning Rags
+23,Automotive Products,Car Wash Equipment,Car Wash Kits
+24,Automotive Products,Car Wash Equipment,Coatings / Waxes
+25,Automotive Products,Car Wash Equipment,Crack Removals
+26,Automotive Products,Car Wash Equipment,Dust Brushes
+27,Automotive Products,Car Wash Equipment,Washer Fluid
+28,Automotive Products,Seats / Cushions / Mats,Car Floor Mats
+29,Automotive Products,Seats / Cushions / Mats,Car Seats
+30,Baby Foods,Baby Foods,Baby Formula
+31,Baby Foods,Baby Foods,Powdered Formula
+32,Baby Foods,Baby Snacks,Baby Beverages
+33,Baby Foods,Baby Snacks,Baby Snack Foods
+34,Ball Game / Field Sports,Badminton,Badminton Rackets
+35,Ball Game / Field Sports,Badminton,Badminton Shuttlecocks
+36,Ball Game / Field Sports,Badminton,Other Badminton Equipment
+37,Ball Game / Field Sports,Baseball,Baseball Bats
+38,Ball Game / Field Sports,Baseball,Baseball Gloves
+39,Ball Game / Field Sports,Baseball,Baseballs
+40,Ball Game / Field Sports,Baseball,Other Baseball Equipment
+41,Ball Game / Field Sports,Basketball,Basketballs
+42,Ball Game / Field Sports,Basketball,Other Basketball Equipment
+43,Ball Game / Field Sports,Golf,Golf Bags
+44,Ball Game / Field Sports,Golf,Golf Balls
+45,Ball Game / Field Sports,Golf,Golf Clubs
+46,Ball Game / Field Sports,Golf,Golf Equipment
+47,Ball Game / Field Sports,Golf,Golf Fashion Accessories
+48,Ball Game / Field Sports,Golf,Golf Gloves
+49,Ball Game / Field Sports,Golf,Golf Shoes
+50,Ball Game / Field Sports,Golf,Golf Training Equipment
+51,Ball Game / Field Sports,Other Ball Game / Field Sports,Other Ball Game / Field Sport Equipment
+52,Ball Game / Field Sports,Soccer / Footbal,Other Soccer Equipment
+53,Ball Game / Field Sports,Soccer / Footbal,Soccer Balls
+54,Ball Game / Field Sports,Soccer / Footbal,Soccer Protective Gear
+55,Ball Game / Field Sports,Soccer / Footbal,Soccer Shoes
+56,Ball Game / Field Sports,Soccer / Footbal,Soccer Socks and Hosiery
+57,Ball Game / Field Sports,Soccer / Footbal,Soccer Uniforms
+58,Ball Game / Field Sports,Table Tennis,Table Tennis Balls
+59,Ball Game / Field Sports,Table Tennis,Table Tennis Rackets
+60,Ball Game / Field Sports,Tennis,Other Tennis Equipment
+61,Ball Game / Field Sports,Tennis,Tennis Balls
+62,Bedding / Handicraft,Adults' Bedding,Adult's Bed Covers and Skirts
+63,Bedding / Handicraft,Adults' Bedding,Adults' Bed Fillings
+64,Bedding / Handicraft,Adults' Bedding,Adults' Bedding Sets
+65,Bedding / Handicraft,Adults' Bedding,Adults' Blankets
+66,Bedding / Handicraft,Adults' Bedding,Adults' Duvet / Duvet Cover
+67,Bedding / Handicraft,Adults' Bedding,Adults' Korean Style Mattress / Covers
+68,Bedding / Handicraft,Adults' Bedding,Adults' Matteress Pads
+69,Bedding / Handicraft,Adults' Bedding,Adults' Mattress Cover
+70,Bedding / Handicraft,Adults' Bedding,Adults' Pads / Bed Spread
+71,Bedding / Handicraft,Adults' Bedding,Adults' Pillow / Pillow Cover
+72,Bedding / Handicraft,Carpets / Rugs / Mats,Carpets
+73,Bedding / Handicraft,Carpets / Rugs / Mats,General Mats
+74,Bedding / Handicraft,Carpets / Rugs / Mats,Rugs
+75,Bedding / Handicraft,Handicraft,Cushion / Cushion Covers
+76,Bedding / Handicraft,Handicraft,Handicraft Product Cottons
+77,Bedding / Handicraft,Handicraft,Indoor Footwear
+78,Bedding / Handicraft,Handicraft,Kitchen Handicraft
+79,Bedding / Handicraft,Handicraft,Lap Blankets
+80,Bedding / Handicraft,Handicraft,Livingroom Handicraft
+81,Bedding / Handicraft,Handicraft,Sitting Cushions / Covers
+82,Bedding / Handicraft,Handicraft Accessories,Fabrics
+83,Bedding / Handicraft,Handicraft Accessories,Sewing Boxes
+84,Bedding / Handicraft,Kids' Bedding,Kids' Bedding Sets
+85,Bedding / Handicraft,Kids' Bedding,Kids' Blankets
+86,Bedding / Handicraft,Kids' Bedding,Kids' Duvet / Duvet Cover
+87,Bedding / Handicraft,Kids' Bedding,Kids' Korean Style Mattress / Covers
+88,Bedding / Handicraft,Kids' Bedding,Kids' Pads / Bed Spread
+89,Bedding / Handicraft,Kids' Bedding,Kids' Pillow / Pillow Cover
+90,Bedding / Handicraft,Seasonal Handicraft,Mosquito Net
+91,Bedding / Handicraft,Seasonal Handicraft,Traditional Wooden Carpets
+92,Beverages,Coffee Drinks,Coffee Drinks
+93,Beverages,Drink Sets,Fruit / Vegetable Juice Sets
+94,Beverages,Drink Sets,Functional Drink Sets
+95,Beverages,Drink Sets,Other Drink Sets
+96,Beverages,Fruit and Vegetable Drinks,Fruit Juices
+97,Beverages,Fruit and Vegetable Drinks,Kids Drinks
+98,Beverages,Fruit and Vegetable Drinks,Mixed Fruit / Vegetable Drinks
+99,Beverages,Fruit and Vegetable Drinks,Vegetable Juices
+100,Beverages,Functional Drinks,Fiber Drinks
+101,Beverages,Functional Drinks,Hangover Curing Drinks
+102,Beverages,Functional Drinks,Korean Traditional Drinks
+103,Beverages,Functional Drinks,Other Functional Drinks
+104,Beverages,Functional Drinks,Sports Drinking Water
+105,Beverages,Functional Drinks,Vitamin Drinks / Energy Drinks
+106,Beverages,Ready to Drinks,Drink Pouches / Instant Drinks
+107,Beverages,Soft Drinks,Ciders
+108,Beverages,Soft Drinks,Cokes
+109,Beverages,Soft Drinks,Soft Drink Mixes
+110,Beverages,Soy Milk,General Soy Milk
+111,Beverages,Tea Drinks,General Tea Drinks
+112,Beverages,Tea Drinks,Korean Traditional Tea Drinks
+113,Beverages,Water,Sparkling Water
+114,Beverages,Water,Water
+115,Birth Supplies / Baby Products,Baby Growth Products,Baby Bath Toys
+116,Birth Supplies / Baby Products,Baby Growth Products,Baby Bouncers / Saucers / Walkers
+117,Birth Supplies / Baby Products,Baby Growth Products,Baby Carriers
+118,Birth Supplies / Baby Products,Baby Growth Products,Baby Potties& Seats / Potty Trainings
+119,Birth Supplies / Baby Products,Baby Growth Products,Kids Car / Rocking Ride-Ons
+120,Birth Supplies / Baby Products,Baby Growth Products,Teethers / Rattle
+121,Birth Supplies / Baby Products,Baby Hygiene Goods,Baby Bath Products
+122,Birth Supplies / Baby Products,Baby Hygiene Goods,Baby Shampoos / Body Washes
+123,Birth Supplies / Baby Products,Baby Hygiene Goods,Baby Wipes
+124,Birth Supplies / Baby Products,Baby Hygiene Goods,Infant Diapers
+125,Birth Supplies / Baby Products,Baby Hygiene Goods,Kids' Toothbrushes
+126,Birth Supplies / Baby Products,Baby Hygiene Goods,Kids' Toothpaste
+127,Birth Supplies / Baby Products,Baby Safety Equipment,Baby Car Seats / Mattress Pads
+128,Birth Supplies / Baby Products,Baby Safety Equipment,Baby Mattress Pads
+129,Birth Supplies / Baby Products,Baby Safety Equipment,Baby Strollers
+130,Birth Supplies / Baby Products,Baby Safety Equipment,Other Baby Safety Equipment
+131,Birth Supplies / Baby Products,Baby Skin / Body Care,Baby Skin Care
+132,Birth Supplies / Baby Products,Feeding / Weaning Products,Baby Foods Accessories
+133,Birth Supplies / Baby Products,Feeding / Weaning Products,Baby Health Supplements
+134,Birth Supplies / Baby Products,Feeding / Weaning Products,Birth Supplies / Baby Goods Sets
+135,Birth Supplies / Baby Products,Feeding / Weaning Products,Breastmilk Storage Goods
+136,Birth Supplies / Baby Products,Feeding / Weaning Products,Feeding / Weaning Products' Cleanser
+137,Birth Supplies / Baby Products,Feeding / Weaning Products,Feeding Bottles / Nipples
+138,Birth Supplies / Baby Products,Feeding / Weaning Products,Feeding Bottles Sterilizers / Warmers
+139,Birth Supplies / Baby Products,Feeding / Weaning Products,Nursing Pads / Nursing Aids
+140,Birth Supplies / Baby Products,Maternity Care Products,Maternity Skin Care
+141,Books / Records / Instruments,Books,Children's Books
+142,Books / Records / Instruments,Books,General Books
+143,Books / Records / Instruments,Books,Interpark Books
+144,Books / Records / Instruments,Books,Newspapers / Magazines
+145,Books / Records / Instruments,Books,Study Guide Books
+146,Books / Records / Instruments,Books,Toddler Books
+147,Books / Records / Instruments,Musical Instruments,Keyboard Instruments
+148,Books / Records / Instruments,Musical Instruments,Musical Instrument Accessories
+149,Books / Records / Instruments,Musical Instruments,String Instruments
+150,Canned / Jarred Foods,Canned Agricultural Foods,Canned Fruit Foods
+151,Canned / Jarred Foods,Canned Agricultural Foods,Canned Vegetable Foods
+152,Canned / Jarred Foods,Canned Fish Foods,Canned Other Fish Foods
+153,Canned / Jarred Foods,Canned Fish Foods,Canned Salmons
+154,Canned / Jarred Foods,Canned Fish Foods,Canned Sauries / Mackerels
+155,Canned / Jarred Foods,Canned Fish Foods,Canned Tunas
+156,Canned / Jarred Foods,Canned Fish Foods,Canned bai top Shells
+157,Canned / Jarred Foods,Canned Food Gift Sets,Canned Ham Gift Sets
+158,Canned / Jarred Foods,Canned Food Gift Sets,Canned Mix Food Gift Sets
+159,Canned / Jarred Foods,Canned Food Gift Sets,Canned Tuna Gift Sets
+160,Canned / Jarred Foods,Canned Meat Foods,Canned Chickens
+161,Canned / Jarred Foods,Canned Meat Foods,Canned Ham
+162,Canned / Jarred Foods,Canned Meat Foods,Canned Other Meat Foods
+163,Canned / Jarred Foods,Jams,Fruit Jams
+164,Canned / Jarred Foods,Jams,Spreads
+165,Cell Phones / Accessories,Mobile Accessories,Cases / Protective Films
+166,Cell Phones / Accessories,Mobile Accessories,Earphones / Headsets
+167,Cell Phones / Accessories,Mobile Accessories,Mobile Batteries / Chargers
+168,Cell Phones / Accessories,Mobile Accessories,Other Mobile Accessories
+169,Cell Phones / Accessories,Mobile Devices,Cell Phones
+170,Cell Phones / Accessories,Mobile Devices,Other Mobile Devices
+171,Chilled Foods,Chilled Beverages,Chilled Coffee and Tea Beverages
+172,Chilled Foods,Chilled Beverages,Chilled Fruit and Vegetable Beverages
+173,Chilled Foods,Chilled Beverages,Chilled Nut Beverages
+174,Chilled Foods,Chilled Instant Foods,"Chilled Chicken, Jokbal and Pork Feet"
+175,Chilled Foods,Chilled Instant Foods,Chilled Dressings
+176,Chilled Foods,Chilled Instant Foods,Chilled Hot Dogs and Hot Bars
+177,Chilled Foods,Chilled Instant Foods,Chilled Mature Sauces
+178,Chilled Foods,Chilled Instant Foods,Chilled Noodles
+179,Chilled Foods,Chilled Instant Foods,Chilled Refreshments
+180,Chilled Foods,Chilled Instant Foods,Chilled Rice Cakes
+181,Chilled Foods,Chilled Instant Foods,Chilled Rice and Porridge
+182,Chilled Foods,Chilled Instant Foods,Chilled Soups
+183,Chilled Foods,Chilled Instant Foods,Chilled Tteokbokkis
+184,Chilled Foods,Dessert,Bread and Cake
+185,Chilled Foods,Dessert,Pudding and Jelley
+186,Chilled Foods,Fish Cakes and Crab Sticks,Crab Sticks
+187,Chilled Foods,Fish Cakes and Crab Sticks,Devil´s-tongue Jelly
+188,Chilled Foods,Fish Cakes and Crab Sticks,Fish Cakes
+189,Chilled Foods,Fish Cakes and Crab Sticks,Fried Tofu
+190,Chilled Foods,Fish Cakes and Crab Sticks,Gimbap ingredients sets
+191,Chilled Foods,Ham and Sausages,Bacons
+192,Chilled Foods,Ham and Sausages,Ham
+193,Chilled Foods,Ham and Sausages,Ham Gift Sets
+194,Chilled Foods,Ham and Sausages,Sausages
+195,Chilled Foods,Packaged Side Dishes,Boiled-down Side Dishes
+196,Chilled Foods,Packaged Side Dishes,N/A
+197,Chilled Foods,Packaged Side Dishes,Packged Kimchi
+198,Chilled Foods,Packaged Side Dishes,Pickled Radishes
+199,Chilled Foods,Packaged Side Dishes,Salted Seafood
+200,Chilled Foods,Packaged Side Dishes,Salted Side Dishes
+201,Chilled Foods,Packaged Side Dishes,Seasoned Side Dishes
+202,Chilled Foods,Packaged Side Dishes,Stir-Fried Side Dishes
+203,Cleaning / Laundry / Bathroom Accessories,Bathroom Fixtures,Bathrobes
+204,Cleaning / Laundry / Bathroom Accessories,Bathroom Fixtures,Bathroom Accessories
+205,Cleaning / Laundry / Bathroom Accessories,Bathroom Fixtures,Bathroom Cleaning Accessories
+206,Cleaning / Laundry / Bathroom Accessories,Bathroom Fixtures,Bathroom Mats
+207,Cleaning / Laundry / Bathroom Accessories,Bathroom Fixtures,Bathroom Shoes
+208,Cleaning / Laundry / Bathroom Accessories,Bathroom Fixtures,Bathroom Storage / Organization Accessories
+209,Cleaning / Laundry / Bathroom Accessories,Bathroom Fixtures,Shower Curtains
+210,Cleaning / Laundry / Bathroom Accessories,Bathroom Fixtures,Shower Towels
+211,Cleaning / Laundry / Bathroom Accessories,Bathroom Fixtures,Toilet Seats / Covers
+212,Cleaning / Laundry / Bathroom Accessories,Bathroom Fixtures,Towels
+213,Cleaning / Laundry / Bathroom Accessories,Bathroom Fixtures,Water-pipe Accessories
+214,Cleaning / Laundry / Bathroom Accessories,Cleaning Accessories,Bathroom Bins
+215,Cleaning / Laundry / Bathroom Accessories,Cleaning Accessories,Brooms / Dustpans
+216,Cleaning / Laundry / Bathroom Accessories,Cleaning Accessories,Detergent-free Cleaners
+217,Cleaning / Laundry / Bathroom Accessories,Cleaning Accessories,Mops
+218,Cleaning / Laundry / Bathroom Accessories,Cleaning Accessories,Other Cleaning Accessories
+219,Cleaning / Laundry / Bathroom Accessories,Cleaning Accessories,Rags
+220,Cleaning / Laundry / Bathroom Accessories,Cleaning Accessories,Tape Cleaners
+221,Cleaning / Laundry / Bathroom Accessories,Cleaning Accessories,Trash Bags
+222,Cleaning / Laundry / Bathroom Accessories,Home Organizations,Baskets
+223,Cleaning / Laundry / Bathroom Accessories,Home Organizations,Blankets / Cloth Covers
+224,Cleaning / Laundry / Bathroom Accessories,Home Organizations,Blankets / Vacuum Storage Bags
+225,Cleaning / Laundry / Bathroom Accessories,Home Organizations,Containers / Boxes
+226,Cleaning / Laundry / Bathroom Accessories,Home Organizations,Hangers
+227,Cleaning / Laundry / Bathroom Accessories,Home Organizations,Other Storage / Organisational Accessories
+228,Cleaning / Laundry / Bathroom Accessories,Home Organizations,Plastic Drawers
+229,Cleaning / Laundry / Bathroom Accessories,Home Organizations,Racks
+230,Cleaning / Laundry / Bathroom Accessories,Laundry / Drying equipment,Ironing Boards
+231,Cleaning / Laundry / Bathroom Accessories,Laundry / Drying equipment,Laundry / Drying supplementary goods
+232,Cleaning / Laundry / Bathroom Accessories,Laundry / Drying equipment,Laundry Dry Racks
+233,Coffee / Tea,Brewed Coffee,Capsule Coffee
+234,Coffee / Tea,Brewed Coffee,Ground Coffee and Whole Bean Coffee
+235,Coffee / Tea,Brewed Coffee,Stick Type Brewed Coffee
+236,Coffee / Tea,Brewed Coffee,Tea Bags and Ground Coffee
+237,Coffee / Tea,Coffee Sets and Tea Sets,Coffee Sets
+238,Coffee / Tea,Coffee Sets and Tea Sets,Tea Sets
+239,Coffee / Tea,Premixed Coffee,Coffee Creamers
+240,Coffee / Tea,Premixed Coffee,Iced Mixed Coffee
+241,Coffee / Tea,Premixed Coffee,Mixed Coffee
+242,Coffee / Tea,Premixed Coffee,Refill Coffee
+243,Coffee / Tea,Tea,Cocoa
+244,Coffee / Tea,Tea,Fruit Tea
+245,Coffee / Tea,Tea,Green Tea and Black Tea
+246,Coffee / Tea,Tea,Herbal Tea and Flower Tea
+247,Coffee / Tea,Tea,Iced Tea
+248,Coffee / Tea,Tea,Korean Traditional Tea
+249,Coffee / Tea,Tea,Nut Tea
+250,Coffee / Tea,Tea,Tea for Drinking Water
+251,Computers,Computer Accessories,Computer Components
+252,Computers,Computer Accessories,Computer Speakers
+253,Computers,Computer Accessories,Data Storages
+254,Computers,Computer Accessories,Keyboards
+255,Computers,Computer Accessories,Mouses
+256,Computers,Computer Accessories,Networking Devices
+257,Computers,Computer Accessories,Other Computer Accessories
+258,Computers,Computer Accessories,Printer Inks / Toners
+259,Computers,Computer Accessories,Printers / Scanners
+260,Computers,Computers / Laptops,Desktops
+261,Computers,Computers / Laptops,Laptops
+262,Computers,Computers / Laptops,Monitors
+263,Computers,Computers / Laptops,Tablet PCs
+264,Cooked Foods,Bakery,Bakery Cakes
+265,Cooked Foods,Bakery,Bakery Gift Sets
+266,Cooked Foods,Bakery,Bakery Ingredients
+267,Cooked Foods,Bakery,Bakery Pastries
+268,Cooked Foods,Bakery,Bakery Plain breads
+269,Cooked Foods,Bakery,General Bakery Breads
+270,Cooked Foods,Chilled Snacks,Gimbabs
+271,Cooked Foods,Chilled Snacks,Hamburgers
+272,Cooked Foods,Chilled Snacks,Ingredients Of Cold Snacks
+273,Cooked Foods,Chilled Snacks,Lunch Boxes
+274,Cooked Foods,Chilled Snacks,Other Chilled Snacks
+275,Cooked Foods,Chilled Snacks,Salads
+276,Cooked Foods,Chilled Snacks,Sandwiches
+277,Cooked Foods,Chilled Snacks,Sushi
+278,Cooked Foods,Chilled Snacks,Triangle Shaped Gimbabs
+279,Cooked Foods,Cooked Side Dishes,Cooked Boiled-down Side Dishes
+280,Cooked Foods,Cooked Side Dishes,Cooked Greens / Namuls / Pancakes
+281,Cooked Foods,Cooked Side Dishes,Cooked Kimchi
+282,Cooked Foods,Cooked Side Dishes,Cooked Korean Soups
+283,Cooked Foods,Cooked Side Dishes,Cooked Salted Seafood
+284,Cooked Foods,Cooked Side Dishes,Cooked Salted Side Dishes
+285,Cooked Foods,Cooked Side Dishes,Cooked Seasoned Side Dishes
+286,Cooked Foods,Cooked Side Dishes,Cooked Stir-Fried Side Dishes
+287,Cooked Foods,Cooked Side Dishes,Ingredients Of Cooked Foods
+288,Cooked Foods,Hot Snacks,Chickens
+289,Cooked Foods,Hot Snacks,Cooked Fish Cakes
+290,Cooked Foods,Hot Snacks,Fried Foods
+291,Cooked Foods,Hot Snacks,Ingredients Of Hot Snacks
+292,Cooked Foods,Hot Snacks,Jokbal
+293,Cooked Foods,Hot Snacks,Other Hot Snacks
+294,Cooked Foods,Hot Snacks,Pizza
+295,Cooked Foods,Hot Snacks,Smoked Foods and Roasted Foods
+296,Cooked Foods,Hot Snacks,Sundae
+297,Cooked Foods,Traditional Rice Cakes,General Rice Cakes
+298,Cooked Foods,Traditional Rice Cakes,Rice Cake For Cooking
+299,Cosmetics / Beauty Care,Beauty Tools / Accessories,Cotton Swabs / Cotton Pads
+300,Cosmetics / Beauty Care,Beauty Tools / Accessories,Empty Bottle / Facial Mask Tools
+301,Cosmetics / Beauty Care,Beauty Tools / Accessories,Eyelashes / Double Eyelid Stickers
+302,Cosmetics / Beauty Care,Beauty Tools / Accessories,Foot Care Tools
+303,Cosmetics / Beauty Care,Beauty Tools / Accessories,Hair Brushes / Rollers
+304,Cosmetics / Beauty Care,Beauty Tools / Accessories,Makeup Brushes
+305,Cosmetics / Beauty Care,Beauty Tools / Accessories,Makeup Mirrors
+306,Cosmetics / Beauty Care,Beauty Tools / Accessories,Makeup Sponges / Puffs
+307,Cosmetics / Beauty Care,Beauty Tools / Accessories,Metal Beauty Kits
+308,Cosmetics / Beauty Care,Beauty Tools / Accessories,Nail Care Tools
+309,Cosmetics / Beauty Care,Beauty Tools / Accessories,Oil Blotting Papers
+310,Cosmetics / Beauty Care,Beauty Tools / Accessories,Shower / Bathing Accessories / Headbands
+311,Cosmetics / Beauty Care,Makeup,BB / Face Foundation / Compact Powder
+312,Cosmetics / Beauty Care,Makeup,Eyebrow
+313,Cosmetics / Beauty Care,Makeup,Eyeliners
+314,Cosmetics / Beauty Care,Makeup,Eyeshadow
+315,Cosmetics / Beauty Care,Makeup,Face Blushes / Bronzers / Highlighters
+316,Cosmetics / Beauty Care,Makeup,Gel Polish / Nail Care
+317,Cosmetics / Beauty Care,Makeup,General Nail Polish / Nail Care
+318,Cosmetics / Beauty Care,Makeup,Lip Gloss / Lip Tint
+319,Cosmetics / Beauty Care,Makeup,Lipsticks / Lipliners
+320,Cosmetics / Beauty Care,Makeup,Makeup Base / Primer
+321,Cosmetics / Beauty Care,Makeup,Makeup Sets
+322,Cosmetics / Beauty Care,Makeup,Mascara
+323,Cosmetics / Beauty Care,Makeup,Nail Sets
+324,Cosmetics / Beauty Care,Makeup,Nail Stickers / Stones
+325,Cosmetics / Beauty Care,Men's Care,Men's Cleansing Washes
+326,Cosmetics / Beauty Care,Men's Care,Men's Skin Care
+327,Cosmetics / Beauty Care,Men's Care,Men's Skin Care Sets
+328,Cosmetics / Beauty Care,Men's Care,Men's Sun Protection / Makeup Goods
+329,Cosmetics / Beauty Care,Perfumes,Men's Perfumes
+330,Cosmetics / Beauty Care,Perfumes,Unisex Perfumes
+331,Cosmetics / Beauty Care,Perfumes,Women's Perfume Sets
+332,Cosmetics / Beauty Care,Perfumes,Women's Perfumes
+333,Cosmetics / Beauty Care,Skin Care,Beauty Soaps
+334,Cosmetics / Beauty Care,Skin Care,Creams / Balms / Oils
+335,Cosmetics / Beauty Care,Skin Care,Emulsions / Lotions
+336,Cosmetics / Beauty Care,Skin Care,Essence / Serums
+337,Cosmetics / Beauty Care,Skin Care,Eye Care
+338,Cosmetics / Beauty Care,Skin Care,Facial Cleansing Washes
+339,Cosmetics / Beauty Care,Skin Care,Facial Masks
+340,Cosmetics / Beauty Care,Skin Care,Facial Mist
+341,Cosmetics / Beauty Care,Skin Care,Lip Balm / Lip Scrub
+342,Cosmetics / Beauty Care,Skin Care,Skin Care Devices
+343,Cosmetics / Beauty Care,Skin Care,Skin Care Sets
+344,Cosmetics / Beauty Care,Skin Care,Toners
+345,Cosmetics / Beauty Care,Sun Care,Sun Protection Goods
+346,Cosmetics / Beauty Care,Sun Care,Tanning Oils / After Sun Care
+347,Dairy Products,Milk,Fresh Milk
+348,Dairy Products,Milk,Functional Milk
+349,Dairy Products,Processed Dairy Products,Butter and Margarine
+350,Dairy Products,Processed Dairy Products,Cheese
+351,Dairy Products,Processed Dairy Products,Cream and Condensed milk
+352,Dairy Products,Processed Milk,Flavored Milk
+353,Dairy Products,Yogurt,General Yogurt
+354,Dairy Products,Yogurt,Spoon Type Yogurts
+355,Dairy Products,Yogurt,Yogurt Drinks
+356,Detergents / Hygiene Goods,Air Freshners / Dehumidifiers / Odor Eliminators,Air Fresheners
+357,Detergents / Hygiene Goods,Air Freshners / Dehumidifiers / Odor Eliminators,Dehumidifiers
+358,Detergents / Hygiene Goods,Air Freshners / Dehumidifiers / Odor Eliminators,Fabric Deodorizers
+359,Detergents / Hygiene Goods,Air Freshners / Dehumidifiers / Odor Eliminators,Odor Eliminators
+360,Detergents / Hygiene Goods,Cleaning Detergents,Cleaning Detergents for Bathroom
+361,Detergents / Hygiene Goods,Cleaning Detergents,Cleansing Detergent
+362,Detergents / Hygiene Goods,Cleaning Detergents,Kitchen Cleaners
+363,Detergents / Hygiene Goods,Cleaning Detergents,Mold Removers
+364,Detergents / Hygiene Goods,Cleaning Detergents,Polishes
+365,Detergents / Hygiene Goods,Cleaning Detergents,Rox / Cleaning Liquids
+366,Detergents / Hygiene Goods,Dishwashing Detergents,General Dishwashing Liquids
+367,Detergents / Hygiene Goods,Dishwashing Detergents,Multi-purpose Dishwashing Liquids
+368,Detergents / Hygiene Goods,Insecticides,Ant / Cockroach Killers
+369,Detergents / Hygiene Goods,Insecticides,Fly / Mosquito Killers
+370,Detergents / Hygiene Goods,Insecticides,Insecticides
+371,Detergents / Hygiene Goods,Laundry Detergents,Fabric Softeners
+372,Detergents / Hygiene Goods,Laundry Detergents,Laundry Bleach Liquids
+373,Detergents / Hygiene Goods,Laundry Detergents,Laundry Bleach Powder
+374,Detergents / Hygiene Goods,Laundry Detergents,Laundry Detergent Liquids
+375,Detergents / Hygiene Goods,Laundry Detergents,Laundry Detergent Powder
+376,Detergents / Hygiene Goods,Laundry Detergents,Laundry Detergents For Special Purpose
+377,Detergents / Hygiene Goods,Laundry Detergents,Laundry Detergents for Parts
+378,Detergents / Hygiene Goods,Laundry Detergents,Laundry Soaps
+379,Detergents / Hygiene Goods,Tissues and Papers,Kitchen Papers
+380,Detergents / Hygiene Goods,Tissues and Papers,Makeup Tissues
+381,Detergents / Hygiene Goods,Tissues and Papers,Napkins
+382,Detergents / Hygiene Goods,Tissues and Papers,Toilet Papers
+383,Detergents / Hygiene Goods,Tissues and Papers,Wet Tissues
+384,Dried Sea Foods,Dried Fish,Dried / Shredded CodFish
+385,Dried Sea Foods,Dried Fish,Dried Anchovies For Parching And Boiling
+386,Dried Sea Foods,Dried Fish,Dried Anchovies For Soups
+387,Dried Sea Foods,Dried Fish,Dried CodFish
+388,Dried Sea Foods,Dried Fish,Dried FileFish
+389,Dried Sea Foods,Dried Fish,Dried Mussels
+390,Dried Sea Foods,Dried Fish,Dried Shrimps
+391,Dried Sea Foods,Dried Fish,Dried Squids
+392,Dried Sea Foods,Dried Fish,Fish Jerkies
+393,Dried Sea Foods,Dried Fish,Mitra Squids
+394,Dried Sea Foods,Dried Fish,Original Natural Seasonings
+395,Dried Sea Foods,Dried Fish,Seasoned Squids
+396,Dried Sea Foods,Dried Fish,Smoked Squids
+397,Dried Sea Foods,Dried Sea Food Gift Sets,Anchovies Gift Sets
+398,Dried Sea Foods,Dried Sea Food Gift Sets,Dried Laver Gift Sets
+399,Dried Sea Foods,Dried Sea Food Gift Sets,Other Dried Seafood Gift Sets
+400,Dried Sea Foods,Dried Sea Food Gift Sets,Yellow Corvina Fish Gift Sets
+401,Dried Sea Foods,Half-dried Fish,Half-Dried Fish
+402,Dried Sea Foods,Half-dried Fish,Half-Dried Squids
+403,Dried Sea Foods,Half-dried Fish,Half-Dried Walleyed CodFish
+404,Dried Sea Foods,Half-dried Fish,Yellow Corvina Fish
+405,Dried Sea Foods,Processed Seaweeds,Dried Lavers
+406,Dried Sea Foods,Processed Seaweeds,Dried Sea Mustard
+407,Dried Sea Foods,Processed Seaweeds,Dried kelp
+408,Dried Sea Foods,Processed Seaweeds,Seasoned Dried Lavers
+409,Dried Sea Foods,Processed Seaweeds,Seasoned Fried Seaweed Chips
+410,Dried Sea Foods,Processed Seaweeds,Seasoned Sliced Dried Lavers
+411,Fashion Accessories,Bag Sets,Bag Sets
+412,Fashion Accessories,Belts,Men's Belts
+413,Fashion Accessories,Belts,Women's Belts
+414,Fashion Accessories,Casual Bags,Accessory Bags
+415,Fashion Accessories,Casual Bags,Casual Backpacks
+416,Fashion Accessories,Casual Bags,Casual Cross-Body Backs
+417,Fashion Accessories,Casual Bags,Casual Hipsacks
+418,Fashion Accessories,Casual Bags,Casual Shoulder Bag
+419,Fashion Accessories,Casual Bags,Kids' Bags
+420,Fashion Accessories,Casual Bags,Laptop Bags
+421,Fashion Accessories,Casual Bags,Student's Bags
+422,Fashion Accessories,Eyewear / Sunglasses,Eyeglasses Frame
+423,Fashion Accessories,Eyewear / Sunglasses,Kids' Sunglasses
+424,Fashion Accessories,Eyewear / Sunglasses,Men's Sunglasses
+425,Fashion Accessories,Eyewear / Sunglasses,Women's Sunglasses
+426,Fashion Accessories,Fashion Accessories,Handkerchief
+427,Fashion Accessories,Fashion Accessories,Kids' Fashion Accessories
+428,Fashion Accessories,Fashion Accessories,Mufflers
+429,Fashion Accessories,Fashion Accessories,Neck Warmers
+430,Fashion Accessories,Fashion Accessories,Other Fashion Accessories
+431,Fashion Accessories,Fashion Accessories,Scarfs
+432,Fashion Accessories,Fashion Accessories,Traditional / Religious Accessories
+433,Fashion Accessories,Gloves,Kids' Gloves
+434,Fashion Accessories,Gloves,Men's Gloves
+435,Fashion Accessories,Gloves,Women's Gloves
+436,Fashion Accessories,Hair Accessories,Kids' Hair Accessories
+437,Fashion Accessories,Hair Accessories,Women's Hair Accessories
+438,Fashion Accessories,Hats / Caps,Baseball Caps
+439,Fashion Accessories,Hats / Caps,Bucket Hats
+440,Fashion Accessories,Hats / Caps,Kids' Hat
+441,Fashion Accessories,Hats / Caps,Other Hats / Caps
+442,Fashion Accessories,Hats / Caps,Sun Hat's
+443,Fashion Accessories,Jewelry,Anklets
+444,Fashion Accessories,Jewelry,Bracelets
+445,Fashion Accessories,Jewelry,Brooch
+446,Fashion Accessories,Jewelry,Earrings
+447,Fashion Accessories,Jewelry,Jewelry Sets
+448,Fashion Accessories,Jewelry,Necklaces
+449,Fashion Accessories,Jewelry,Other Jewelry's
+450,Fashion Accessories,Jewelry,Pendants
+451,Fashion Accessories,Jewelry,Pure Gold / Pure Silver / Ornaments
+452,Fashion Accessories,Jewelry,Rings
+453,Fashion Accessories,Kids' Shoes,Kids' Fashion Sneakers
+454,Fashion Accessories,Kids' Shoes,Kids' Flats
+455,Fashion Accessories,Kids' Shoes,Kids' Rain boots / Rain Shoes
+456,Fashion Accessories,Kids' Shoes,Kids' Sandals
+457,Fashion Accessories,Kids' Shoes,Kids' Slip-Ons
+458,Fashion Accessories,Kids' Shoes,Kids' Slippers
+459,Fashion Accessories,Kids' Shoes,Other Kids' Shoes
+460,Fashion Accessories,Men's Bags,Men's Backpacks
+461,Fashion Accessories,Men's Bags,Men's Briefcases
+462,Fashion Accessories,Men's Bags,Men's Clutch Bags
+463,Fashion Accessories,Men's Bags,Men's Shoulder Bags
+464,Fashion Accessories,Men's Fashion Accessories,Tie Pins
+465,Fashion Accessories,Men's Fashion Accessories,Ties
+466,Fashion Accessories,Men's Shoes,Men's Dress Shoes
+467,Fashion Accessories,Men's Shoes,Men's Fashion Sneakers
+468,Fashion Accessories,Men's Shoes,Men's Sandals
+469,Fashion Accessories,Men's Shoes,Men's Shoes Accessories
+470,Fashion Accessories,Men's Shoes,Men's Slippers
+471,Fashion Accessories,Men's Shoes,Other Men's Footwear
+472,Fashion Accessories,Men's Wallets,Men's General Wallets
+473,Fashion Accessories,Men's Wallets,Men's Money Clips
+474,Fashion Accessories,Other Wallets,Coin Cases
+475,Fashion Accessories,Other Wallets,Key Holder Cases
+476,Fashion Accessories,Travel Bags,Carry-Ons
+477,Fashion Accessories,Travel Bags,Other Travel Bags
+478,Fashion Accessories,Travel Bags,Travel Accessories
+479,Fashion Accessories,Umbrellas / Parasols,Disposable Umbrellas
+480,Fashion Accessories,Umbrellas / Parasols,Kids' Umbrella
+481,Fashion Accessories,Umbrellas / Parasols,Long Umbrellas
+482,Fashion Accessories,Umbrellas / Parasols,Parasol
+483,Fashion Accessories,Umbrellas / Parasols,Raincoats
+484,Fashion Accessories,Umbrellas / Parasols,Triple Folded Umbrellas
+485,Fashion Accessories,Watches,Casual Watches
+486,Fashion Accessories,Watches,Men's Watches
+487,Fashion Accessories,Watches,Watch Accessories
+488,Fashion Accessories,Watches,Women's Watches
+489,Fashion Accessories,Women's Bags,Women's Backpacks
+490,Fashion Accessories,Women's Bags,Women's Bag Accessories
+491,Fashion Accessories,Women's Bags,Women's Clutch Bags
+492,Fashion Accessories,Women's Bags,Women's Cross-Body Bags
+493,Fashion Accessories,Women's Bags,Women's Shoulder Bags
+494,Fashion Accessories,Women's Bags,Women's Totes
+495,Fashion Accessories,Women's Bags,Women's' Hipsacks
+496,Fashion Accessories,Women's Shoes,Other Women's Footwear
+497,Fashion Accessories,Women's Shoes,Women's Boots
+498,Fashion Accessories,Women's Shoes,Women's Comport Shoes
+499,Fashion Accessories,Women's Shoes,Women's Fashion Sneakers
+500,Fashion Accessories,Women's Shoes,Women's Flats
+501,Fashion Accessories,Women's Shoes,Women's Flip Flops
+502,Fashion Accessories,Women's Shoes,Women's Loafer
+503,Fashion Accessories,Women's Shoes,Women's Pumps
+504,Fashion Accessories,Women's Shoes,Women's Sandals
+505,Fashion Accessories,Women's Shoes,Women's Shoes Accessories
+506,Fashion Accessories,Women's Shoes,Women's Slip-Ons
+507,Fashion Accessories,Women's Shoes,Women's Slippers
+508,Fashion Accessories,Women's Shoes,Women's Snow Shoes
+509,Fashion Accessories,Women's Wallets,Women's (Business) Card Cases
+510,Fashion Accessories,Women's Wallets,Women's General Wallets
+511,Finance / Insurance Service,Insurance Services,Cancer Insurance
+512,Finance / Insurance Service,Insurance Services,Fire Insurance
+513,Finance / Insurance Service,Insurance Services,Other Insurance
+514,Frozen Foods,Frozen Instant Foods,Frozen Desserts
+515,Frozen Foods,Frozen Instant Foods,Frozen Dumplings
+516,Frozen Foods,Frozen Instant Foods,Frozen Fried Foods
+517,Frozen Foods,Frozen Instant Foods,Frozen Hotdogs
+518,Frozen Foods,Frozen Instant Foods,Frozen Korean Pancakes
+519,Frozen Foods,Frozen Instant Foods,Frozen Korean Soups
+520,Frozen Foods,Frozen Instant Foods,Frozen Noodles
+521,Frozen Foods,Frozen Instant Foods,Frozen Pizzas
+522,Frozen Foods,Frozen Instant Foods,Frozen Rice
+523,Frozen Foods,Frozen Instant Foods,Frozen Tteokbokkis
+524,Frozen Foods,Frozen Instant Foods,N/A
+525,Frozen Foods,Frozen Instant Foods,Other Frozen Ready-To-Eat Foods
+526,Frozen Foods,Ice Creams,Bar Ice Creams
+527,Frozen Foods,Ice Creams,Cone Ice Creams
+528,Frozen Foods,Ice Creams,Cup Ice Creams
+529,Frozen Foods,Ice Creams,Home Ice Creams
+530,Frozen Foods,Ice Creams,Ice Cream Cakes
+531,Frozen Foods,Ice Creams,Ice Cubes
+532,Frozen Foods,Ice Creams,Monaca
+533,Frozen Foods,Ice Creams,Tube Ice Creams
+534,Fruits,Domestic Fruits,Apples
+535,Fruits,Domestic Fruits,Apricots
+536,Fruits,Domestic Fruits,Cherry Tomatoes
+537,Fruits,Domestic Fruits,Figs
+538,Fruits,Domestic Fruits,Grapes
+539,Fruits,Domestic Fruits,Melons
+540,Fruits,Domestic Fruits,Oriental Melons
+541,Fruits,Domestic Fruits,Other Domestic Fruits
+542,Fruits,Domestic Fruits,Peaches
+543,Fruits,Domestic Fruits,Pears
+544,Fruits,Domestic Fruits,Persimmons
+545,Fruits,Domestic Fruits,Plums
+546,Fruits,Domestic Fruits,Tangerines
+547,Fruits,Domestic Fruits,Tomatoes
+548,Fruits,Domestic Fruits,Watermelons
+549,Fruits,Domestic Fruits,Yuzus / Quinces
+550,Fruits,Dried Fruits,Dried Persimmons
+551,Fruits,Dried Fruits,Dried mangoes
+552,Fruits,Dried Fruits,Other Dried Fruits
+553,Fruits,Dried Fruits,Raisins
+554,Fruits,Frozen Fruits,Frozen Berries
+555,Fruits,Frozen Fruits,Frozen Mangoes
+556,Fruits,Frozen Fruits,Frozen Ripe Persimmons
+557,Fruits,Frozen Fruits,Frozen Vegetables
+558,Fruits,Frozen Fruits,Other Frozen Fruits
+559,Fruits,Fruit Gift Sets,Apples Gift Sets
+560,Fruits,Fruit Gift Sets,Dried Persimmon Gift Sets
+561,Fruits,Fruit Gift Sets,Mixed fruit Gift Sets
+562,Fruits,Fruit Gift Sets,Other Fruit Gift Sets
+563,Fruits,Fruit Gift Sets,Pears Gift Sets
+564,Fruits,Imported Fruits,Avocados
+565,Fruits,Imported Fruits,Bananas
+566,Fruits,Imported Fruits,Blueberries
+567,Fruits,Imported Fruits,Cherries
+568,Fruits,Imported Fruits,Coconuts
+569,Fruits,Imported Fruits,Dragon Fruits
+570,Fruits,Imported Fruits,Grapefruits
+571,Fruits,Imported Fruits,Imported Grapes
+572,Fruits,Imported Fruits,Kiwi
+573,Fruits,Imported Fruits,Lemons
+574,Fruits,Imported Fruits,Mangoes
+575,Fruits,Imported Fruits,Mangosteens
+576,Fruits,Imported Fruits,Oranges
+577,Fruits,Imported Fruits,Other Imported Fruits
+578,Fruits,Imported Fruits,Pineapples
+579,Fruits,Imported Fruits,Prepared Fruits
+580,Fruits,Nuts,Almonds
+581,Fruits,Nuts,Cashew Nuts
+582,Fruits,Nuts,Chestnuts
+583,Fruits,Nuts,Macadamias
+584,Fruits,Nuts,Mixed Nuts
+585,Fruits,Nuts,Other Nuts
+586,Fruits,Nuts,Peanuts
+587,Fruits,Nuts,Pine Nuts
+588,Fruits,Nuts,Pistachios
+589,Fruits,Nuts,Walnuts
+590,Furniture,Bedroom Furniture,Bedroom Sets
+591,Furniture,Bedroom Furniture,Beds
+592,Furniture,Bedroom Furniture,Bedside Cabinets
+593,Furniture,Bedroom Furniture,Closet
+594,Furniture,Bedroom Furniture,Dressing Tables
+595,Furniture,Bedroom Furniture,Mattresses
+596,Furniture,Installation-Service / DIY Furniture,Installation-Service Furniture
+597,Furniture,Kids' Furniture,Kids' Beds
+598,Furniture,Kids' Furniture,Kids' Drawers
+599,Furniture,Kids' Furniture,Kids' High Chairs / Chairs
+600,Furniture,Kids' Furniture,Kids' Step Stools
+601,Furniture,Kitchen / Dining Room Furniture,Kitchen / Dining Room Cabinets
+602,Furniture,Kitchen / Dining Room Furniture,Kitchen / Dining Room Table Chairs
+603,Furniture,Kitchen / Dining Room Furniture,Kitchen / Dining Room Table Sets
+604,Furniture,Livingroom Furniture,Bedroom Armoires
+605,Furniture,Livingroom Furniture,Sofas
+606,Furniture,Livingroom Furniture,Stools
+607,Furniture,Livingroom Furniture,Tables
+608,Furniture,Office / Student's Furniture,Bookcases / File Cabinets
+609,Furniture,Office / Student's Furniture,Desk Chairs
+610,Furniture,Office / Student's Furniture,Desks
+611,Furniture,Other Furniture,Other Furniture
+612,Furniture,Outdoor Furniture,Outdoor Benches
+613,Furniture,Storage Furniture,Drawers
+614,Furniture,Storage Furniture,Shelves
+615,Furniture,Storage Furniture,Shoe Shelves
+616,Gardening / Pets,Animal Clinics,Pet Beauty / Spa
+617,Gardening / Pets,Animal Clinics,Pet Prescribed Foods
+618,Gardening / Pets,Animal Clinics,Pet Treatment / Operation
+619,Gardening / Pets,Gardening,Artificial Flowers
+620,Gardening / Pets,Gardening,Garden Fertilizers / Plant Food
+621,Gardening / Pets,Gardening,Plants
+622,Gardening / Pets,Gardening,Seeds
+623,Gardening / Pets,Gardening Accessories,Gardening Tools / Watering Equipment
+624,Gardening / Pets,Gardening Accessories,Other Gardening Equipment
+625,Gardening / Pets,Gardening Accessories,Plant Pots / Planters
+626,Gardening / Pets,Other Pets,Aquarium Bird Accessories
+627,Gardening / Pets,Other Pets,Aquarium Fish
+628,Gardening / Pets,Other Pets,Aquarium Fish Accessories
+629,Gardening / Pets,Other Pets,Insect Accessories
+630,Gardening / Pets,Other Pets,Insects
+631,Gardening / Pets,Other Pets,Reptile Accessories
+632,Gardening / Pets,Other Pets,Rodent Accessories
+633,Gardening / Pets,Other Pets,Rodents
+634,Gardening / Pets,Pet Cat Supplies,Pet Cat Food
+635,Gardening / Pets,Pet Cat Supplies,Pet Cat Health Supplies
+636,Gardening / Pets,Pet Cat Supplies,Pet Cat Sand / Litter
+637,Gardening / Pets,Pet Cat Supplies,Pet Cat Shower Accessories / Care Goods
+638,Gardening / Pets,Pet Cat Supplies,Pet Cat Snacks
+639,Gardening / Pets,Pet Cat Supplies,Pet Cat Toys
+640,Gardening / Pets,Pet Cat Supplies,Pet Cat Trees / Indoor Accessories
+641,Gardening / Pets,Pet Dog Supplies,Pet Dog Bowls / Water Bottles
+642,Gardening / Pets,Pet Dog Supplies,Pet Dog Care Equipment
+643,Gardening / Pets,Pet Dog Supplies,Pet Dog Carriers
+644,Gardening / Pets,Pet Dog Supplies,Pet Dog Clothing / Accessories
+645,Gardening / Pets,Pet Dog Supplies,Pet Dog Food
+646,Gardening / Pets,Pet Dog Supplies,Pet Dog Houses / Indoor Accessories
+647,Gardening / Pets,Pet Dog Supplies,Pet Dog Litter Equipment
+648,Gardening / Pets,Pet Dog Supplies,Pet Dog Shower Accessories / Care Goods
+649,Gardening / Pets,Pet Dog Supplies,Pet Dog Snacks
+650,Gardening / Pets,Pet Dog Supplies,Pet Dog Toys / Training
+651,Gift Certificates / Cards,Gift Certificates,Departments / Marts Gift Certificates
+652,Gift Certificates / Cards,Mobile Gift Cards,Foods / Drinks Mobile Gift Cards
+653,Gift Certificates / Cards,Mobile Gift Cards,Living Mobile Gift Cards
+654,Gift Certificates / Cards,Mobile Gift Cards,Movies / Cultures Mobile Gift Cards
+655,Gift Certificates / Cards,Mobile Gift Cards,Online / Mobile Contents
+656,Grains,Cereal Powders,Cereal Powders
+657,Grains,Cereal Powders,Mixed Grain Powder
+658,Grains,Grain Gift Sets,Grain Gift Sets
+659,Grains,Miscellaneous Grains,Barley
+660,Grains,Miscellaneous Grains,Beans
+661,Grains,Miscellaneous Grains,Black Rice
+662,Grains,Miscellaneous Grains,Brown Rice
+663,Grains,Miscellaneous Grains,Glutinous Rice
+664,Grains,Miscellaneous Grains,Millet / Sorghum
+665,Grains,Miscellaneous Grains,Mixed Rice
+666,Grains,Miscellaneous Grains,Other Rice
+667,Grains,Rice, 
+668,Grains,Rice,Functional Rice
+669,Grains,Rice,Processed Rice
+670,Grains,Rice,Rice
+671,Health / Fitness Training,Fitness Training,Exercise Bikes
+672,Health / Fitness Training,Fitness Training,Fitness Accessories
+673,Health / Fitness Training,Fitness Training,Massage Belts
+674,Health / Fitness Training,Fitness Training,Other Fitness Machines
+675,Health / Fitness Training,Fitness Training,Other Yoga / Pilates Accessories
+676,Health / Fitness Training,Fitness Training,Running Machines / Walking Machines
+677,Health / Fitness Training,Fitness Training,Steppers / Twisters
+678,Health / Fitness Training,Fitness Training,Yoga / Pilates Clothing
+679,Health / Fitness Training,Fitness Training,Yoga Mats / Exercise Mats
+680,Health / Fitness Training,Weight Training,Weight Accessories
+681,Health / Fitness Training,Weight Training,Weight Equipment
+682,Health / Fitness Training,Weight Training,Weight Machines
+683,Health Care,Health Care Products,Aroma Therapy Diffusers
+684,Health Care,Health Care Products,Elderly Care Products
+685,Health Care,Health Care Products,Guards / Walking Aids
+686,Health Care,Health Care Products,Other Aroma Therapy Items
+687,Health Care,Health Care Products,Physical Therapy Aids
+688,Health Care,Health Care Products,Scented Candles
+689,Health Care,Health Electronics,Boiling Pot for Medicine / Red Ginseng Extract Makers
+690,Health Care,Health Electronics,Juicer
+691,Health Care,Health Electronics,Massage Chairs
+692,Health Care,Health Measuring Products,Other Health Measuring Products
+693,Health Care,Health Measuring Products,Thermometers
+694,Health Care,Health Measuring Products,Weight / Hight Scales
+695,Health Care,Massage / Pack Goods,Hot / Cold Massage Goods
+696,Health Care,Massage / Pack Goods,Massage Goods
+697,Health Care,Massage / Pack Goods,Thermal Packs
+698,Health Care,Non-Prescription Medicines,Emergency Non-Prescription Medicine Sets
+699,Health Care,Sanitary Aids,Band-Aids
+700,Health Care,Sanitary Aids,Condoms
+701,Health Care,Sanitary Aids,First Aid Kits
+702,Health Care,Sanitary Aids,Health Masks
+703,Health Care,Sanitary Aids,Lens Care Items
+704,Health Foods,Dietary Supplements,Beauty Supplements
+705,Health Foods,Dietary Supplements,Diet Supplements
+706,Health Foods,Dietary Supplements,Other Health Supplements
+707,Health Foods,Dietary Supplements,Sports Supplements
+708,Health Foods,Health Extracts,Fermented Juice
+709,Health Foods,Health Extracts,Fruit Extracts
+710,Health Foods,Health Extracts,Mixed Extracts
+711,Health Foods,Health Extracts,Vegetable Extracts
+712,Health Foods,Honey,Apicultural Honey
+713,Health Foods,Honey,Honey Sets
+714,Health Foods,Honey,Royal Jelly
+715,Health Foods,Honey,Wild Honey
+716,Health Foods,Nutritional Supplements,Calcium / Mineral
+717,Health Foods,Nutritional Supplements,Glucosamine
+718,Health Foods,Nutritional Supplements,Lactic Acid / Probiotics
+719,Health Foods,Nutritional Supplements,Lutein
+720,Health Foods,Nutritional Supplements,Multi Nutritional Supplements
+721,Health Foods,Nutritional Supplements,Natural Nutritional Supplements
+722,Health Foods,Nutritional Supplements,Nutritional Supplement Sets
+723,Health Foods,Nutritional Supplements,Omega3 Oils / Other Extracted Oils
+724,Health Foods,Nutritional Supplements,Other Nutritional Supplements
+725,Health Foods,Nutritional Supplements,Vitamins
+726,Health Foods,Red Ginsengs / Dried Ginseng Processed Foods,Baby Ginsengs
+727,Health Foods,Red Ginsengs / Dried Ginseng Processed Foods,Dried Ginseng Processed Foods
+728,Health Foods,Red Ginsengs / Dried Ginseng Processed Foods,Red Ginseng Extracts
+729,Health Foods,Red Ginsengs / Dried Ginseng Processed Foods,Red Ginseng Powder / Pills
+730,Health Foods,Red Ginsengs / Dried Ginseng Processed Foods,Red Ginseng Sets
+731,Health Foods,Red Ginsengs / Dried Ginseng Processed Foods,Red Ginseng Slices
+732,Health Foods,Red Ginsengs / Dried Ginseng Processed Foods,Red and Dried Ginseng Mixed Sets
+733,Heating / Cooling Electronics,Cooling Appliances,Ceiling Type Air Conditioners
+734,Heating / Cooling Electronics,Cooling Appliances,Electric Cold Fans
+735,Heating / Cooling Electronics,Cooling Appliances,Electric Fans
+736,Heating / Cooling Electronics,Cooling Appliances,Multi Type Air Conditioners
+737,Heating / Cooling Electronics,Cooling Appliances,Other Cooling Appliances
+738,Heating / Cooling Electronics,Cooling Appliances,Window Air Conditioners
+739,Heating / Cooling Electronics,Heating Appliances,Electronic Mats
+740,Heating / Cooling Electronics,Heating Appliances,Heaters
+741,Heating / Cooling Electronics,Heating Appliances,Hot Water Mats
+742,Home / Kitchen Appliances,Air Purifiers / Humidifiers / Dehumidifiers,Air Purifiers
+743,Home / Kitchen Appliances,Beauty Electronics,Electric Shavers
+744,Home / Kitchen Appliances,Beauty Electronics,Hair Curling Irons
+745,Home / Kitchen Appliances,Beauty Electronics,Hair Dryers
+746,Home / Kitchen Appliances,Beauty Electronics,Hair Shavers
+747,Home / Kitchen Appliances,Beauty Electronics,Hair Straightners
+748,Home / Kitchen Appliances,Beauty Electronics,Other Beauty Electronics
+749,Home / Kitchen Appliances,Home Appliances,Bidets
+750,Home / Kitchen Appliances,Home Appliances,Irons
+751,Home / Kitchen Appliances,Home Appliances,Water Softners
+752,Home / Kitchen Appliances,Kitchen Appliances,Blenders
+753,Home / Kitchen Appliances,Kitchen Appliances,Coffee Machines
+754,Home / Kitchen Appliances,Kitchen Appliances,Coffee Makers
+755,Home / Kitchen Appliances,Kitchen Appliances,Cups / Rag Sterilizers
+756,Home / Kitchen Appliances,Kitchen Appliances,Dishdryers
+757,Home / Kitchen Appliances,Kitchen Appliances,Dishwashers
+758,Home / Kitchen Appliances,Kitchen Appliances,Dryers for Kitchen
+759,Home / Kitchen Appliances,Kitchen Appliances,Electric Fryers
+760,Home / Kitchen Appliances,Kitchen Appliances,Electric Frying pans
+761,Home / Kitchen Appliances,Kitchen Appliances,Electric Grills
+762,Home / Kitchen Appliances,Kitchen Appliances,Electric Rice Cooker
+763,Home / Kitchen Appliances,Kitchen Appliances,Electric Steamers
+764,Home / Kitchen Appliances,Kitchen Appliances,Induction / Gas Stove
+765,Home / Kitchen Appliances,Kitchen Appliances,Other Kitchen Appliances
+766,Home / Kitchen Appliances,Kitchen Appliances,Ovens / Microwaves
+767,Home / Kitchen Appliances,Kitchen Appliances,Toasters
+768,Home / Kitchen Appliances,Kitchen Appliances,Yoghurts / Chunggukjang Makers
+769,Home / Kitchen Appliances,Vacuum Cleaners,General Vecuum Cleaners
+770,Home / Kitchen Appliances,Vacuum Cleaners,Handheld Vacuum Cleaners
+771,Home / Kitchen Appliances,Vacuum Cleaners,Other Vacuum Cleaners
+772,Home / Kitchen Appliances,Vacuum Cleaners,Robotic Vacuum Cleaners
+773,Home / Kitchen Appliances,Vacuum Cleaners,Steam Vacuum Cleaners
+774,Home / Kitchen Appliances,Vacuum Cleaners,Water Mops
+775,Home Decor / Lighting,Curtains / Blinds,Curtain Balances
+776,Home Decor / Lighting,Curtains / Blinds,Curtain Rings / Curtain Bars / Curtain Components
+777,Home Decor / Lighting,Curtains / Blinds,Curtains
+778,Home Decor / Lighting,Decorative Accessories,Arts / Crafts
+779,Home Decor / Lighting,Decorative Accessories,Decorative Mirror
+780,Home Decor / Lighting,Decorative Accessories,Frames
+781,Home Decor / Lighting,Decorative Accessories,Home Decorative Accessories
+782,Home Decor / Lighting,Decorative Accessories,Watches
+783,Home Decor / Lighting,Lighting Accessories,Decorative Lamps
+784,Home Decor / Lighting,Lighting Accessories,Flashlights
+785,Home Decor / Lighting,Lighting Accessories,General Lamps
+786,Home Decor / Lighting,Lighting Accessories,LED Lamps
+787,Home Decor / Lighting,Lighting Accessories,Light Fixtures
+788,Home Decor / Lighting,Lighting Accessories,Special Lamps
+789,Home Decor / Lighting,Lighting Accessories,Table Lamps
+790,Home Decor / Lighting,Walls / Flooring Accessories,Wall Sheets
+791,Home Decor / Lighting,Walls / Flooring Accessories,Wallpapers
+792,Home Decor / Lighting,Walls / Flooring Accessories,Wind-proof / Insulation / Insect Protection
+793,Kids' Clothing,Boys' Clothing Sets,Boys' Clothing Sets
+794,Kids' Clothing,Boys' Full Bodywear,Boys' Jumpsuits / Overalls
+795,Kids' Clothing,Boys' Lower Bodywear / Bottoms,Boys' Jeans
+796,Kids' Clothing,Boys' Lower Bodywear / Bottoms,Boys' Leggings
+797,Kids' Clothing,Boys' Lower Bodywear / Bottoms,Boys' Pants
+798,Kids' Clothing,Boys' Outwear,Boys' Jackets
+799,Kids' Clothing,Boys' Outwear,Boys' Jumpers
+800,Kids' Clothing,Boys' Outwear,Boys' Paddingwear
+801,Kids' Clothing,Boys' Outwear,Other Boys' Outwear
+802,Kids' Clothing,Boys' Special Materials Clothing,Boys' Leather Clothing
+803,Kids' Clothing,Boys' Special Use Clothing,Boys' Costumes
+804,Kids' Clothing,Boys' Special Use Clothing,Boys' Hanboks
+805,Kids' Clothing,Boys' Special Use Clothing,Other Boys' Special Use Clothing
+806,Kids' Clothing,Boys' Upper Bodywear / Tops,Boys' Button-Down Shirts
+807,Kids' Clothing,Boys' Upper Bodywear / Tops,Boys' Cardigans
+808,Kids' Clothing,Boys' Upper Bodywear / Tops,Boys' Sweaters / Pullover
+809,Kids' Clothing,Boys' Upper Bodywear / Tops,Boys' Sweatshirts / Hoodies
+810,Kids' Clothing,Boys' Upper Bodywear / Tops,Boys' T-shirts / Tops
+811,Kids' Clothing,Boys' Upper Bodywear / Tops,Boys' Vests
+812,Kids' Clothing,Girls' Clothing Sets,Girls' Clothing Sets
+813,Kids' Clothing,Girls' Clothing Sets,Other Girls' Special Use Clothing
+814,Kids' Clothing,Girls' Full Bodywear,Girls' Dresses
+815,Kids' Clothing,Girls' Full Bodywear,Girls' Jumpsuits / Overalls
+816,Kids' Clothing,Girls' Lower Bodywear / Bottoms,Girls' Jeans
+817,Kids' Clothing,Girls' Lower Bodywear / Bottoms,Girls' Leggings
+818,Kids' Clothing,Girls' Lower Bodywear / Bottoms,Girls' Pants
+819,Kids' Clothing,Girls' Lower Bodywear / Bottoms,Girls' Skirts
+820,Kids' Clothing,Girls' Outwear,Girls' Coats
+821,Kids' Clothing,Girls' Outwear,Girls' Jackets
+822,Kids' Clothing,Girls' Outwear,Girls' Jumpers
+823,Kids' Clothing,Girls' Outwear,Girls' Paddingwear
+824,Kids' Clothing,Girls' Outwear,Other Girls' Outwear
+825,Kids' Clothing,Girls' Special Materials Clothing,Girls' Fur Coats
+826,Kids' Clothing,Girls' Special Materials Clothing,Girls' Leather Clothing
+827,Kids' Clothing,Girls' Special Use Clothing,Girls' Costumes
+828,Kids' Clothing,Girls' Special Use Clothing,Girls' Hanboks
+829,Kids' Clothing,Girls' Upper Bodywear / Tops,Girls' Blouses
+830,Kids' Clothing,Girls' Upper Bodywear / Tops,Girls' Button-Down Shirts
+831,Kids' Clothing,Girls' Upper Bodywear / Tops,Girls' Cardigans
+832,Kids' Clothing,Girls' Upper Bodywear / Tops,Girls' Sweaters / Pullover
+833,Kids' Clothing,Girls' Upper Bodywear / Tops,Girls' Sweatshirts / Hoodies
+834,Kids' Clothing,Girls' Upper Bodywear / Tops,Girls' T-shirts / Tops
+835,Kids' Clothing,Girls' Upper Bodywear / Tops,Girls' Vests
+836,Kids' Clothing,Preschoolers' Clothing Sets,Infant / Toddlers' Clothing Sets
+837,Kids' Clothing,Preschoolers' Full Bodywear,Baby Bodysuits
+838,Kids' Clothing,Preschoolers' Full Bodywear,Infant / Toddlers' Dresses
+839,Kids' Clothing,Preschoolers' Full Bodywear,Infant / Toddlers' Jumpsuits / Overalls
+840,Kids' Clothing,Preschoolers' Lower Bodywear / Bottoms,Infant / Toddlers' Jeans
+841,Kids' Clothing,Preschoolers' Lower Bodywear / Bottoms,Infant / Toddlers' Leggings
+842,Kids' Clothing,Preschoolers' Lower Bodywear / Bottoms,Infant / Toddlers' Pants
+843,Kids' Clothing,Preschoolers' Lower Bodywear / Bottoms,Infant / Toddlers' Skirts
+844,Kids' Clothing,Preschoolers' Outwear,Infant / Toddlers' Coats
+845,Kids' Clothing,Preschoolers' Outwear,Infant / Toddlers' Jackets
+846,Kids' Clothing,Preschoolers' Outwear,Infant / Toddlers' Jumpers
+847,Kids' Clothing,Preschoolers' Outwear,Infant / Toddlers' Paddingwear
+848,Kids' Clothing,Preschoolers' Outwear,Other Infant / Toddlers' Outwear
+849,Kids' Clothing,Preschoolers' Special Use Clothing,Infant / Toddlers' Costumes
+850,Kids' Clothing,Preschoolers' Special Use Clothing,Infant / Toddlers' Fashion Trainingwear
+851,Kids' Clothing,Preschoolers' Special Use Clothing,Infant / Toddlers' Hanboks
+852,Kids' Clothing,Preschoolers' Special Use Clothing,Other Infant / Toddlers' Special Use Clothing
+853,Kids' Clothing,Preschoolers' Upper Bodywear / Tops,Infant / Toddlers' Blouses
+854,Kids' Clothing,Preschoolers' Upper Bodywear / Tops,Infant / Toddlers' Button-Down Shirts
+855,Kids' Clothing,Preschoolers' Upper Bodywear / Tops,Infant / Toddlers' Cardigans
+856,Kids' Clothing,Preschoolers' Upper Bodywear / Tops,Infant / Toddlers' Sweaters / Pullover
+857,Kids' Clothing,Preschoolers' Upper Bodywear / Tops,Infant / Toddlers' T-shirts / Tops
+858,Kids' Clothing,Preschoolers' Upper Bodywear / Tops,Infant / Toddlers' Vests
+859,Kids' Clothing,Preschoolers' Upper Bodywear / Tops,Infants' Traditional Jacket
+860,Kitchenware,Disposable Kitchenware,Disposable Chopsticks / Spoons
+861,Kitchenware,Disposable Kitchenware,Disposable Paper Cups
+862,Kitchenware,Disposable Kitchenware,Disposable Plates
+863,Kitchenware,Disposable Kitchenware,Other Kitchen Disposable Goods
+864,Kitchenware,Fixed-price General Merchandise,Fixed-price Living Products
+865,Kitchenware,Kitchen Cookware,Bakewares
+866,Kitchenware,Kitchen Cookware,Can Openers / Corkscrews
+867,Kitchenware,Kitchen Cookware,Coffee Tables
+868,Kitchenware,Kitchen Cookware,Cutting Boards
+869,Kitchenware,Kitchen Cookware,Kitchen Cookware Sets
+870,Kitchenware,Kitchen Cookware,Kitchen Knives / Scissors
+871,Kitchenware,Kitchen Cookware,Ladles / Turners / Rice Paddles
+872,Kitchenware,Kitchen Cookware,Mixing Bowls
+873,Kitchenware,Kitchen Cookware,Other Kitchen Cookware
+874,Kitchenware,Kitchen Cookware,Slicers / Graters / Mortars
+875,Kitchenware,Kitchen Cookware,Wicker / Serving Trays / Platters
+876,Kitchenware,Kitchen Organization / Disposable Goods,Dish Racks / Utensil Holders
+877,Kitchenware,Kitchen Organization / Disposable Goods,Dish Rags
+878,Kitchenware,Kitchen Organization / Disposable Goods,Foils / Plastic Wraps / Parchment Papers
+879,Kitchenware,Kitchen Organization / Disposable Goods,Hand Carts
+880,Kitchenware,Kitchen Organization / Disposable Goods,Kitchen Racks
+881,Kitchenware,Kitchen Organization / Disposable Goods,Multi-purpose Dining Tables
+882,Kitchenware,Kitchen Organization / Disposable Goods,Other Kitchen Storage / Disposable Goods
+883,Kitchenware,Kitchen Organization / Disposable Goods,Plastic Gloves
+884,Kitchenware,Kitchen Organization / Disposable Goods,Rubber Gloves
+885,Kitchenware,Kitchen Organization / Disposable Goods,Scrub Sponges
+886,Kitchenware,Kitchen Organization / Disposable Goods,Shopping Baskets
+887,Kitchenware,Kitchen Organization / Disposable Goods,Sinks / Drain-pipe Accessories
+888,Kitchenware,Kitchen Organization / Disposable Goods,Table Decor
+889,Kitchenware,Kitchen Organization / Disposable Goods,Zipper Poly Bags / Plastic Bags
+890,Liquors / Alcoholic Beverages,Alcoholic Beverage Sets,Sprits Sets
+891,Liquors / Alcoholic Beverages,Alcoholic Beverage Sets,Traditional Liquor Sets
+892,Liquors / Alcoholic Beverages,Alcoholic Beverage Sets,Wine Sets
+893,Liquors / Alcoholic Beverages,Beer,Domestic Beer
+894,Liquors / Alcoholic Beverages,Beer,Imported Beer
+895,Liquors / Alcoholic Beverages,Beer,Non Alcoholic Beer
+896,Liquors / Alcoholic Beverages,Soju,Cocktail Soju
+897,Liquors / Alcoholic Beverages,Soju,Korean Soju
+898,Liquors / Alcoholic Beverages,Soju,Soju For Homebrewing
+899,Liquors / Alcoholic Beverages,Sprits / Liquors,Liqueur
+900,Liquors / Alcoholic Beverages,Sprits / Liquors,Other Sprits
+901,Liquors / Alcoholic Beverages,Sprits / Liquors,Whisky
+902,Liquors / Alcoholic Beverages,Traditional Liquors,Cheongju
+903,Liquors / Alcoholic Beverages,Traditional Liquors,Chinese Liquor
+904,Liquors / Alcoholic Beverages,Traditional Liquors,Japanese Liquor
+905,Liquors / Alcoholic Beverages,Traditional Liquors,Korean Fruit Wine and Korean Homebrewing Liquor
+906,Liquors / Alcoholic Beverages,Traditional Liquors,Makgeolli
+907,Liquors / Alcoholic Beverages,Traditional Liquors,Other Traditional Liquor
+908,Liquors / Alcoholic Beverages,Wine,Red Wine
+909,Liquors / Alcoholic Beverages,Wine,Sparkling Wine
+910,Liquors / Alcoholic Beverages,Wine,White Wine
+911,Living / Rental Services,Living Services,Delivery Services
+912,Living / Rental Services,Living Services,Funeral Services
+913,Living / Rental Services,Living Services,Ohter Life Services
+914,Living / Rental Services,Rental Services,Car / Sports Equipment Rental Services
+915,Living / Rental Services,Rental Services,Furnitures / Mattress Rental Services
+916,Living / Rental Services,Rental Services,Water Purifiers / Coffee Machine Rental Services
+917,Meats,Australian Imported Beefs,Australian Imported Beefs - Bone-in Short Ribs
+918,Meats,Australian Imported Beefs,Australian Imported Beefs - Briskets
+919,Meats,Australian Imported Beefs,Australian Imported Beefs - Chunks
+920,Meats,Australian Imported Beefs,Australian Imported Beefs - Hanging Tenders
+921,Meats,Australian Imported Beefs,Australian Imported Beefs - Outside Skirts
+922,Meats,Australian Imported Beefs,Australian Imported Beefs - Rounds
+923,Meats,Australian Imported Beefs,Australian Imported Beefs - Rumps
+924,Meats,Australian Imported Beefs,Australian Imported Beefs - Shanks
+925,Meats,Australian Imported Beefs,Australian Imported Beefs - Shoulders
+926,Meats,Australian Imported Beefs,Australian Imported Beefs - Sirloins
+927,Meats,Australian Imported Beefs,Australian Imported Beefs - Striploins
+928,Meats,Australian Imported Beefs,Australian Imported Beefs - Tenderloins
+929,Meats,Chickens,Chicken Dressed Meats
+930,Meats,Chickens,Chicken Gizzard
+931,Meats,Chickens,Chicken Wing Drumette
+932,Meats,Chickens,Chicken Wing Tips
+933,Meats,Chickens,Chickins for Braised Spicy Soups
+934,Meats,Chickens,Chickins for Chicken Soup With Ginseng
+935,Meats,Chickens,Chiken Breasts
+936,Meats,Chickens,Chiken Legs
+937,Meats,Chickens,Chiken Tenderloins
+938,Meats,Chickens,Duck Meats
+939,Meats,Domestic Beefs,Domestic Beefs - Bone-in Short Ribs
+940,Meats,Domestic Beefs,Domestic Beefs - Briskets
+941,Meats,Domestic Beefs,Domestic Beefs - Chunks
+942,Meats,Domestic Beefs,Domestic Beefs - Dressed Meats
+943,Meats,Domestic Beefs,Domestic Beefs - Rounds
+944,Meats,Domestic Beefs,Domestic Beefs - Rumps
+945,Meats,Domestic Beefs,Domestic Beefs - Shanks
+946,Meats,Domestic Beefs,Domestic Beefs - Shoulders
+947,Meats,Domestic Beefs,Domestic Beefs - Sirloins
+948,Meats,Domestic Beefs,Domestic Beefs - Striploins
+949,Meats,Domestic Beefs,Domestic Beefs - Tenderloins
+950,Meats,Domestic Beefs,Domestic Beefs - Variety Meats
+951,Meats,Domestic Porks,Domestic Porks - Back Ribs
+952,Meats,Domestic Porks,Domestic Porks - Bellys
+953,Meats,Domestic Porks,Domestic Porks - Cheeks
+954,Meats,Domestic Porks,Domestic Porks - Diaphragms
+955,Meats,Domestic Porks,Domestic Porks - Hams
+956,Meats,Domestic Porks,Domestic Porks - Jowls
+957,Meats,Domestic Porks,Domestic Porks - Loins
+958,Meats,Domestic Porks,Domestic Porks - Picnics
+959,Meats,Domestic Porks,Domestic Porks - Shanks
+960,Meats,Domestic Porks,Domestic Porks - Shoulder Butts
+961,Meats,Domestic Porks,Domestic Porks - Spare Ribs
+962,Meats,Domestic Porks,Domestic Porks - Tenderloins
+963,Meats,Domestic Porks,Domestic Porks - Variety Meats
+964,Meats,Eggs,Chicken Eggs
+965,Meats,Eggs,Processed Chicken Eggs
+966,Meats,Eggs,Processed Quail Eggs
+967,Meats,Eggs,Quail Eggs
+968,Meats,Imported Porks,Imported Porks - Bellys
+969,Meats,Imported Porks,Imported Porks - Dressed Meats
+970,Meats,Imported Porks,Imported Porks - Shoulder Butts
+971,Meats,Meat Gift Sets,Domestic Beef Gift Sets
+972,Meats,Meat Gift Sets,Imported Beef Gift Sets
+973,Meats,Meat Gift Sets,Pork Gift Sets
+974,Meats,Meat Gift Sets,Processed Meat Gift Sets
+975,Meats,Other Meats,Beef Jerkies
+976,Meats,Other Meats,Muttons
+977,Meats,Other Meats,Other Meats
+978,Meats,Other Nation Imported Beefs,Other Imported Beefs - Bone-in Short Ribs
+979,Meats,Processed Meats,Meats for Steak
+980,Meats,Processed Meats,Pork Cutlets
+981,Meats,Processed Meats,Processed Meats for Ham
+982,Meats,Processed Meats,Processed Sausages
+983,Meats,Seasoned Meats,Other Seasoned Meats
+984,Meats,Seasoned Meats,Seasoned Beefs
+985,Meats,Seasoned Meats,Seasoned Chickens / Duck Meats
+986,Meats,Seasoned Meats,Seasoned Mixed Meats
+987,Meats,Seasoned Meats,Seasoned Muttons
+988,Meats,Seasoned Meats,Seasoned Porks
+989,Meats,Seasoned Meats,Seasoned Variety Meats
+990,Meats,US Imported Beefs,US Imported Beefs - Bone-in Short Ribs
+991,Meats,US Imported Beefs,US Imported Beefs - Briskets
+992,Meats,US Imported Beefs,US Imported Beefs - Chunks
+993,Meats,US Imported Beefs,US Imported Beefs - Hanging Tenders
+994,Meats,US Imported Beefs,US Imported Beefs - Outside Skirts
+995,Meats,US Imported Beefs,US Imported Beefs - Shoulders
+996,Meats,US Imported Beefs,US Imported Beefs - Sirloins
+997,Men's Clothing,Men's Clothing Sets,Men's Dress Suits
+998,Men's Clothing,Men's Clothing Sets,Other Men's Clothing Sets
+999,Men's Clothing,Men's Lower Bodywear / Bottoms,Men's Casual Pants
+1000,Men's Clothing,Men's Lower Bodywear / Bottoms,Men's Dress Pants
+1001,Men's Clothing,Men's Lower Bodywear / Bottoms,Men's Jeans
+1002,Men's Clothing,Men's Outwear,Men's Casual Jackets
+1003,Men's Clothing,Men's Outwear,Men's Coats
+1004,Men's Clothing,Men's Outwear,Men's Dress Jackets
+1005,Men's Clothing,Men's Outwear,Men's Jumpers
+1006,Men's Clothing,Men's Outwear,Men's Paddingwear
+1007,Men's Clothing,Men's Outwear,Men's Trench Coats
+1008,Men's Clothing,Men's Outwear,Other Men's Outwear
+1009,Men's Clothing,Men's Special Use Clothing,Men's Fashion Training Clothing
+1010,Men's Clothing,Men's Upper Bodywear / Tops,Men's Button-Down Shirts
+1011,Men's Clothing,Men's Upper Bodywear / Tops,Men's Cardigans
+1012,Men's Clothing,Men's Upper Bodywear / Tops,Men's Dress Shirts
+1013,Men's Clothing,Men's Upper Bodywear / Tops,Men's Sweaters / Pullover
+1014,Men's Clothing,Men's Upper Bodywear / Tops,Men's Sweatshirts / Hoodies
+1015,Men's Clothing,Men's Upper Bodywear / Tops,Men's T-shirts
+1016,Men's Clothing,Men's Upper Bodywear / Tops,Men's Vests
+1017,Other Products,Special Offer Sales / B2B Sales,Special Offer Sales / B2B Sales
+1018,Others (Non-Products),Income from leasing,Income from leasing
+1019,Others (Non-Products),Others,Others
+1020,Outdoor / Leisure Activities,Bikes,Bike Helmets
+1021,Outdoor / Leisure Activities,Bikes,Bike Repair / Maintanance Tool Kits
+1022,Outdoor / Leisure Activities,Bikes,Cycling Safety Equipment
+1023,Outdoor / Leisure Activities,Bikes,Electric / Hybrid Bikes
+1024,Outdoor / Leisure Activities,Bikes,Kids' Bikes
+1025,Outdoor / Leisure Activities,Bikes,MTB
+1026,Outdoor / Leisure Activities,Bikes,Other Bikes
+1027,Outdoor / Leisure Activities,Bikes,Other Cycling Accessories
+1028,Outdoor / Leisure Activities,Bikes,Road Bikes
+1029,Outdoor / Leisure Activities,Camping,Camping Cookware
+1030,Outdoor / Leisure Activities,Camping,Camping Sleeping Bags / Bedding
+1031,Outdoor / Leisure Activities,Camping,Camping Tables / Chairs
+1032,Outdoor / Leisure Activities,Camping,Mats for Outdoor Activities
+1033,Outdoor / Leisure Activities,Camping,Other Camping Accessories
+1034,Outdoor / Leisure Activities,Camping,Sun Shelters
+1035,Outdoor / Leisure Activities,Camping,Tents
+1036,Outdoor / Leisure Activities,Climbing,Backpakcs
+1037,Outdoor / Leisure Activities,Climbing,Climbing Sticks
+1038,Outdoor / Leisure Activities,Climbing,Climbing Shoes
+1039,Outdoor / Leisure Activities,Climbing,Other Climbing Equipment
+1040,Outdoor / Leisure Activities,Fishing,Fishing Accessories
+1041,Outdoor / Leisure Activities,Fishing,Fishing Equipment
+1042,Outdoor / Leisure Activities,Inline Skates / Skate Boards / Kickboards,Electric Skateboards / Electric Scooters
+1043,Outdoor / Leisure Activities,Inline Skates / Skate Boards / Kickboards,Inline Skates / Roller Skates
+1044,Outdoor / Leisure Activities,Inline Skates / Skate Boards / Kickboards,Skateboards / Scooters
+1045,Outdoor / Leisure Activities,Other Outdoor Sports / Leisure Activities,Other Outdoor / Leisure Equipment
+1046,Personal Care,Body Care,Bath Preparations / Spa Goods
+1047,Personal Care,Body Care,Body Care Sets
+1048,Personal Care,Body Care,Body Cleansers
+1049,Personal Care,Body Care,Body Oil / Lotions
+1050,Personal Care,Body Care,Body Patch / Packs
+1051,Personal Care,Body Care,Body Sliming / Lifting
+1052,Personal Care,Body Care,Deodorants
+1053,Personal Care,Body Care,Hair Removal Product
+1054,Personal Care,Feminine Hygiene Goods,Feminine Cleansers
+1055,Personal Care,Feminine Hygiene Goods,Panty Liners
+1056,Personal Care,Feminine Hygiene Goods,Sanitary Pads
+1057,Personal Care,Feminine Hygiene Goods,Tampons
+1058,Personal Care,Hair Care,Hair Care Gift Sets
+1059,Personal Care,Hair Care,Hair Care Travel Sets
+1060,Personal Care,Hair Care,Hair Essences
+1061,Personal Care,Hair Care,Hair Mousse / Gels
+1062,Personal Care,Hair Care,Hair Rinses / Conditioners
+1063,Personal Care,Hair Care,Hair Shampoo / Rinse Sets
+1064,Personal Care,Hair Care,Hair Shampoos
+1065,Personal Care,Hair Care,Hair Sprays
+1066,Personal Care,Hair Care,Hair Treatment / Packs
+1067,Personal Care,Hair Care,Hair Waxes
+1068,Personal Care,Hair Care,Hair dyes
+1069,Personal Care,Hand / Foot Care,Foot Care
+1070,Personal Care,Hand / Foot Care,Hand Lotions / Creams
+1071,Personal Care,Hand / Foot Care,Hand Washes / Hand Sanitizers
+1072,Personal Care,Oral Care,Electronic Toothbrushes / Toothbrush Heads
+1073,Personal Care,Oral Care,Mouth Wash
+1074,Personal Care,Oral Care,Other Oral Hygiene Product
+1075,Personal Care,Oral Care,Toothbrushes
+1076,Personal Care,Oral Care,Toothpaste
+1077,Personal Care,Oral Care,Toothpaste / Toothbrush Sets
+1078,Personal Care,Shaving Accessories,Classic Shaving Accessories
+1079,Personal Care,Shaving Accessories,Disposable Razors
+1080,Personal Care,Shaving Accessories,Men's Razor / Blades
+1081,Personal Care,Shaving Accessories,Shaving Creams / Gels
+1082,Personal Care,Special Hygiene Goods,Adult's Diapers
+1083,Personal Care,Special Hygiene Goods,Adult's Disposable Briefes
+1084,Refrigerators and Washing Machines,Refrigerators and Freezers,General Refrigerators
+1085,Refrigerators and Washing Machines,Refrigerators and Freezers,Stand Type Refrigerators for Kimchi
+1086,Refrigerators and Washing Machines,Washing Machines,Drum Washing Machines
+1087,Refrigerators and Washing Machines,Washing Machines,General Washing Machines
+1088,Refrigerators and Washing Machines,Washing Machines,Washer Dryers
+1089,Sea Foods,Crustaceans,Crabs
+1090,Sea Foods,Crustaceans,Lobsters
+1091,Sea Foods,Crustaceans,Other Crabs
+1092,Sea Foods,Crustaceans,Queen Crabs
+1093,Sea Foods,Crustaceans,Shrimps
+1094,Sea Foods,Fish,Atka Mackerel
+1095,Sea Foods,Fish,Cod
+1096,Sea Foods,Fish,Corvina
+1097,Sea Foods,Fish,Eel
+1098,Sea Foods,Fish,Fish Roes
+1099,Sea Foods,Fish,Gizzard Shad
+1100,Sea Foods,Fish,Hairtail
+1101,Sea Foods,Fish,Japanese Spanish mackerel
+1102,Sea Foods,Fish,Mackerel
+1103,Sea Foods,Fish,Monk Fish
+1104,Sea Foods,Fish,Other Fish
+1105,Sea Foods,Fish,Pacific Saury
+1106,Sea Foods,Fish,Plaice
+1107,Sea Foods,Fish,Rock Fish
+1108,Sea Foods,Fish,Salmon
+1109,Sea Foods,Fish,Sciaenoid Fish
+1110,Sea Foods,Fish,Sea Bream
+1111,Sea Foods,Fish,Skate Fish
+1112,Sea Foods,Fish,Walleyed CodFish
+1113,Sea Foods,Frozen Packaged Fish,Other Packaged Fish
+1114,Sea Foods,Frozen Packaged Fish,Packaged Crabs
+1115,Sea Foods,Frozen Packaged Fish,Packaged Flying Fish Roe
+1116,Sea Foods,Frozen Packaged Fish,Packaged Hairtail 
+1117,Sea Foods,Frozen Packaged Fish,Packaged Mackerel
+1118,Sea Foods,Frozen Packaged Fish,Packaged Salmon
+1119,Sea Foods,Frozen Packaged Fish,Packaged Seafoods
+1120,Sea Foods,Frozen Packaged Fish,Packaged Shrimps
+1121,Sea Foods,Frozen Packaged Fish,Sliced Cod
+1122,Sea Foods,Frozen Packaged Fish,Walleyed CodFish for Korean Pancakes
+1123,Sea Foods,Home Meal Replacement,Korean Seafood Soups
+1124,Sea Foods,Home Meal Replacement,Other Ready-to-cook
+1125,Sea Foods,Home Meal Replacement,Rice with Sliced Raw Fish
+1126,Sea Foods,Molluscs,CuttleFish
+1127,Sea Foods,Molluscs,Jelly Fish
+1128,Sea Foods,Molluscs,Octopus
+1129,Sea Foods,Molluscs,Other Mollusks
+1130,Sea Foods,Molluscs,Sea Squirts
+1131,Sea Foods,Molluscs,Small Octopus
+1132,Sea Foods,Molluscs,Squids
+1133,Sea Foods,Molluscs,Water Sea Squirts
+1134,Sea Foods,Molluscs,Webfoot Octopus
+1135,Sea Foods,Sashimi / Sliced Raw Fish,Assorted Sashimi / Sliced Raw Fish
+1136,Sea Foods,Sashimi / Sliced Raw Fish,Gizzard Shad Sashimi / Sliced Raw Fish
+1137,Sea Foods,Sashimi / Sliced Raw Fish,Gray Mullet Sashimi / Sliced Raw Fish
+1138,Sea Foods,Sashimi / Sliced Raw Fish,Halibut Sashimi / Sliced Raw Fish
+1139,Sea Foods,Sashimi / Sliced Raw Fish,Octopus Sashimi / Sliced Raw Fish
+1140,Sea Foods,Sashimi / Sliced Raw Fish,Other Sashimi / Sliced Raw Fish
+1141,Sea Foods,Sashimi / Sliced Raw Fish,Rock Fish Sashimi / Sliced Raw Fish
+1142,Sea Foods,Sashimi / Sliced Raw Fish,Salmon Sashimi / Sliced Raw Fish
+1143,Sea Foods,Sashimi / Sliced Raw Fish,Skate Fish Sashimi / Sliced Raw Fish
+1144,Sea Foods,Sashimi / Sliced Raw Fish,Tuna Sashimi / Sliced Raw Fish
+1145,Sea Foods,Sea Food Gift Sets,Mixed Seafood Gift Sets
+1146,Sea Foods,Sea Food Gift Sets,Seafood Gift Sets
+1147,Sea Foods,Seaweeds,Green Lavers
+1148,Sea Foods,Seaweeds,Other Seaweeds
+1149,Sea Foods,Seaweeds,Sea Mustard
+1150,Sea Foods,Seaweeds,Seaweed Fusiforme
+1151,Sea Foods,Seaweeds,kelp
+1152,Sea Foods,ShellFish,Butter Clams
+1153,Sea Foods,ShellFish,Cockles
+1154,Sea Foods,ShellFish,Ear Shells
+1155,Sea Foods,ShellFish,Freshwater Snail
+1156,Sea Foods,ShellFish,Large Clams
+1157,Sea Foods,ShellFish,Manila clams
+1158,Sea Foods,ShellFish,Mussels
+1159,Sea Foods,ShellFish,Other Shellfish
+1160,Sea Foods,ShellFish,Pen Shells
+1161,Sea Foods,ShellFish,Sea Conchs
+1162,Sea Foods,ShellFish,Sea Snails
+1163,Sea Foods,ShellFish,ShellFish Meat
+1164,Sea Foods,ShellFish,Short-necked Clams
+1165,Seasonal Sports,Other Seasonal Sports,Other Seasonal Sports Accessories
+1166,Seasonal Sports,Skis / Snowboards,Other Ski / Snowboard Equipment
+1167,Seasonal Sports,Skis / Snowboards,Ski / Snowboard Gloves
+1168,Seasonal Sports,Swimming / Water Sports,Aqua Shoes
+1169,Seasonal Sports,Swimming / Water Sports,Children's Beachwear
+1170,Seasonal Sports,Swimming / Water Sports,Children's Swimwear
+1171,Seasonal Sports,Swimming / Water Sports,Men's Beachwear
+1172,Seasonal Sports,Swimming / Water Sports,Men's Swimwear
+1173,Seasonal Sports,Swimming / Water Sports,Other Water Sports Accessories
+1174,Seasonal Sports,Swimming / Water Sports,Swimming Bags
+1175,Seasonal Sports,Swimming / Water Sports,Swimming Caps
+1176,Seasonal Sports,Swimming / Water Sports,Swimming Fins / Snorkeling
+1177,Seasonal Sports,Swimming / Water Sports,Swimming Goggles
+1178,Seasonal Sports,Swimming / Water Sports,Tubes / Boats
+1179,Seasonal Sports,Swimming / Water Sports,Women's Beachwear
+1180,Seasonal Sports,Swimming / Water Sports,Women's Swimwear
+1181,Seasonal Sports,Swimming / Water Sports,life Vests / Safety Accessories
+1182,Snack Foods,Biscuits,Cookie Sticks
+1183,Snack Foods,Biscuits,Cookies
+1184,Snack Foods,Biscuits,Crackers
+1185,Snack Foods,Biscuits,Sand Cookies
+1186,Snack Foods,Candies,Caramel
+1187,Snack Foods,Candies,Functional Candies
+1188,Snack Foods,Candies,Hard Candies
+1189,Snack Foods,Candies,Jellies
+1190,Snack Foods,Candies,Soft Candies
+1191,Snack Foods,Candies,Sweet Red Bean Jellies
+1192,Snack Foods,Candies,Toy Candies
+1193,Snack Foods,Chewing Gum,Bubble Gums
+1194,Snack Foods,Chewing Gum,Functional Chewing Gums
+1195,Snack Foods,Chewing Gum,General Chewing Gums
+1196,Snack Foods,Chocolates,Chocolate Bars
+1197,Snack Foods,Chocolates,Chocolate Plates
+1198,Snack Foods,Chocolates,Chocolate Shells
+1199,Snack Foods,Korean Traditional Snacks,Korean Traditional Sweets and Cookies
+1200,Snack Foods,Korean Traditional Snacks,Other Korean Traditional Snacks
+1201,Snack Foods,Pies,Cookie Cakes
+1202,Snack Foods,Pies,Pies
+1203,Snack Foods,Refreshments,Beef Jerkies for Chasers
+1204,Snack Foods,Refreshments,Other Refreshments
+1205,Snack Foods,Refreshments,Processed Chestnuts
+1206,Snack Foods,Snack Sets,Candy Sets
+1207,Snack Foods,Snack Sets,Chocolate Sets
+1208,Snack Foods,Snack Sets,Korean Traditional Sweets and Cookies Sets
+1209,Snack Foods,Snack Sets,Snack Sets
+1210,Snack Foods,Snacks,Corn Snacks
+1211,Snack Foods,Snacks,Energy Bars
+1212,Snack Foods,Snacks,Fruit Snacks
+1213,Snack Foods,Snacks,General Snacks
+1214,Snack Foods,Snacks,Popcorns
+1215,Snack Foods,Snacks,Potato Snacks
+1216,Snack Foods,Snacks,Rice Snacks
+1217,Snack Foods,Snacks,Sweet Potato Snacks
+1218,Spices / Seasonings,Cooking Oils,Canola Oils
+1219,Spices / Seasonings,Cooking Oils,Corn Oils
+1220,Spices / Seasonings,Cooking Oils,Grape Seed Oils
+1221,Spices / Seasonings,Cooking Oils,Olive Oils
+1222,Spices / Seasonings,Cooking Oils,Other Oils
+1223,Spices / Seasonings,Cooking Oils,Sesame Oils / Perilla Oils
+1224,Spices / Seasonings,Cooking Oils,Soybean Oils
+1225,Spices / Seasonings,Cooking Oils,Sunflower Seed Oils
+1226,Spices / Seasonings,Cooking Powder,Bread Crumbs
+1227,Spices / Seasonings,Cooking Powder,Flours
+1228,Spices / Seasonings,Cooking Powder,Frying Powder
+1229,Spices / Seasonings,Cooking Powder,Grain Powder
+1230,Spices / Seasonings,Cooking Powder,Korean Pancake Mixes
+1231,Spices / Seasonings,Cooking Powder,Other Powder
+1232,Spices / Seasonings,Mature Sauces,Doenjang
+1233,Spices / Seasonings,Mature Sauces,Gochujang
+1234,Spices / Seasonings,Mature Sauces,Other Pastes
+1235,Spices / Seasonings,Mature Sauces,Soy Sauces
+1236,Spices / Seasonings,Mature Sauces,Ssamjang
+1237,Spices / Seasonings,Premix Foods,Bread Mixes
+1238,Spices / Seasonings,Premix Foods,Doughnut Mixes and Hotcake Mixes
+1239,Spices / Seasonings,Premix Foods,Korean Sweet Pancake Mixes
+1240,Spices / Seasonings,Premix Foods,Other Premixed Foods
+1241,Spices / Seasonings,Sauces,Dressings
+1242,Spices / Seasonings,Sauces,Ketchups
+1243,Spices / Seasonings,Sauces,Mayonnaises
+1244,Spices / Seasonings,Sauces,Meat Sauces
+1245,Spices / Seasonings,Sauces,Pasta Sauces
+1246,Spices / Seasonings,Sauces,Sauce for Soups
+1247,Spices / Seasonings,Sauces,Seasoning Sauces
+1248,Spices / Seasonings,Seasoning Sets,Cooking Oil Sets
+1249,Spices / Seasonings,Seasoning Sets,Other Seasoning Sets
+1250,Spices / Seasonings,Seasoning Sets,Seasoning Mix Sets
+1251,Spices / Seasonings,Seasonings,Aekjeot
+1252,Spices / Seasonings,Seasonings,Artificial Seasonings
+1253,Spices / Seasonings,Seasonings,Cooking Wines
+1254,Spices / Seasonings,Seasonings,Liquid Seasonings
+1255,Spices / Seasonings,Seasonings,Natural Seasonings
+1256,Spices / Seasonings,Seasonings,Salts
+1257,Spices / Seasonings,Seasonings,Starch Syrups / Syrups
+1258,Spices / Seasonings,Seasonings,Sugars
+1259,Spices / Seasonings,Seasonings,Vinegar Drinks
+1260,Spices / Seasonings,Seasonings,Vinegars
+1261,Spices / Seasonings,Spices,Herbs
+1262,Spices / Seasonings,Spices,Mustards / Horseradishes
+1263,Spices / Seasonings,Spices,Other Spices
+1264,Spices / Seasonings,Spices,Peppers
+1265,Spices / Seasonings,Spices,Red Pepper Powder
+1266,Spices / Seasonings,Spices,Sesames
+1267,Sport Fashion,Kids' General Sport Clothing,Kids' General Sport Pants
+1268,Sport Fashion,Kids' General Sport Clothing,Kids' Sport Paddingwear
+1269,Sport Fashion,Kids' General Sport Clothing,Kids' Sport T-Shirts / Tops
+1270,Sport Fashion,Kids' General Sport Clothing,Kids' Trainingwear
+1271,Sport Fashion,Kids' Sport Shoes,Kids' Running / Training Shoes
+1272,Sport Fashion,Kids' Sport Shoes,Kids' Sport Sandals / Slippers
+1273,Sport Fashion,Men's Climbing Clothing,Men's Climbing Bodysuits
+1274,Sport Fashion,Men's Climbing Clothing,Men's Climbing Jumpers / Jackets
+1275,Sport Fashion,Men's Climbing Clothing,Men's Climbing Paddingwear
+1276,Sport Fashion,Men's Climbing Clothing,Men's Climbing Pants
+1277,Sport Fashion,Men's Climbing Clothing,Men's Climbing Sets
+1278,Sport Fashion,Men's Climbing Clothing,Men's Climbing T-shirts
+1279,Sport Fashion,Men's General Sport Clothing,Men's General Sport Pants
+1280,Sport Fashion,Men's General Sport Clothing,Men's Sport Paddingwear
+1281,Sport Fashion,Men's General Sport Clothing,Men's Sport Sweatshirts / Hoodies
+1282,Sport Fashion,Men's General Sport Clothing,Men's Sport T-Shirts
+1283,Sport Fashion,Men's General Sport Clothing,Men's Sport Underwear
+1284,Sport Fashion,Men's General Sport Clothing,Men's Trainingwear
+1285,Sport Fashion,Men's General Sport Clothing,Men's' Sport Jumpers / Jackets
+1286,Sport Fashion,Men's Golf Clothing,Men's Golf Jumpers / Jackets
+1287,Sport Fashion,Men's Golf Clothing,Men's Golf Pants
+1288,Sport Fashion,Men's Golf Clothing,Men's Golf T-shirts / Tops
+1289,Sport Fashion,Men's Sport Shoes,Men's Running / Training Shoes
+1290,Sport Fashion,Men's Sport Shoes,Men's Sport Sandals / Slippers
+1291,Sport Fashion,Men's Sport Shoes,Men's Sport Shoes Accessories
+1292,Sport Fashion,Sport Accessories,Sport Bags
+1293,Sport Fashion,Sport Accessories,Sport Bandanas / Mufflers / Masks
+1294,Sport Fashion,Sport Accessories,Sport Bands / Hairbands
+1295,Sport Fashion,Sport Accessories,Sport Caps
+1296,Sport Fashion,Sport Accessories,Sport Socks and Hosiery
+1297,Sport Fashion,Women's Climbing Clothing,Women's Climbing Bodysuits / Dresses
+1298,Sport Fashion,Women's Climbing Clothing,Women's Climbing Clothing Sets
+1299,Sport Fashion,Women's Climbing Clothing,Women's Climbing Jumpers / Jackets
+1300,Sport Fashion,Women's Climbing Clothing,Women's Climbing Paddingwear
+1301,Sport Fashion,Women's Climbing Clothing,Women's Climbing Pants
+1302,Sport Fashion,Women's Climbing Clothing,Women's Climbing T-shirts / Tops
+1303,Sport Fashion,Women's Climbing Clothing,Women's Climbing Vests
+1304,Sport Fashion,Women's General Sport Clothing,Women's General Sport Pants
+1305,Sport Fashion,Women's General Sport Clothing,Women's Sport Jumpers / Jackets
+1306,Sport Fashion,Women's General Sport Clothing,Women's Sport Sweatshirts / Hoodies
+1307,Sport Fashion,Women's General Sport Clothing,Women's Sport T-Shirts / Tops
+1308,Sport Fashion,Women's General Sport Clothing,Women's Sport Underwear
+1309,Sport Fashion,Women's General Sport Clothing,Women's Trainingwear
+1310,Sport Fashion,Women's Golf Clothing,Women's Golf Bodysuits / Dresses
+1311,Sport Fashion,Women's Golf Clothing,Women's Golf Clothing Sets
+1312,Sport Fashion,Women's Golf Clothing,Women's Golf Knitwear / Cardigan
+1313,Sport Fashion,Women's Golf Clothing,Women's Golf Pants
+1314,Sport Fashion,Women's Golf Clothing,Women's Golf Skirts
+1315,Sport Fashion,Women's Golf Clothing,Women's Golf T-shirts / Tops
+1316,Sport Fashion,Women's Sport Shoes,Women's Running / Training Shoes
+1317,Sport Fashion,Women's Sport Shoes,Women's Sport Sandals / Slippers
+1318,Sport Fashion,Women's Sport Shoes,Women's Sport Shoes Accessories
+1319,Stationary / Office Supplies,Arts / Crafts Supplies,Colored Papers
+1320,Stationary / Office Supplies,Arts / Crafts Supplies,Colored Pencils
+1321,Stationary / Office Supplies,Arts / Crafts Supplies,Crayons
+1322,Stationary / Office Supplies,Arts / Crafts Supplies,Drawing Papers
+1323,Stationary / Office Supplies,Arts / Crafts Supplies,Painbrushes / Writingbrushes
+1324,Stationary / Office Supplies,Arts / Crafts Supplies,Painting Tools
+1325,Stationary / Office Supplies,Arts / Crafts Supplies,Paints
+1326,Stationary / Office Supplies,Arts / Crafts Supplies,Pastels
+1327,Stationary / Office Supplies,Arts / Crafts Supplies,Sculpture / Craft Goods
+1328,Stationary / Office Supplies,Arts / Crafts Supplies,Sketchpads
+1329,Stationary / Office Supplies,Business Paper Products,Envelopes
+1330,Stationary / Office Supplies,Business Paper Products,Index Dividers
+1331,Stationary / Office Supplies,Business Paper Products,Labled Papers
+1332,Stationary / Office Supplies,Business Paper Products,Laminate Films
+1333,Stationary / Office Supplies,Business Paper Products,Letterheads
+1334,Stationary / Office Supplies,Business Paper Products,Photo Copy Papers
+1335,Stationary / Office Supplies,Business Paper Products,Post It Notes
+1336,Stationary / Office Supplies,Education / Crafts Supplies,Magnet Play Materials
+1337,Stationary / Office Supplies,Education / Crafts Supplies,Other Education / Crafts Supplies
+1338,Stationary / Office Supplies,Education / Crafts Supplies,Playing Materials
+1339,Stationary / Office Supplies,General Stationary / Office Supplies,Adhesive Tapes
+1340,Stationary / Office Supplies,General Stationary / Office Supplies,Binders
+1341,Stationary / Office Supplies,General Stationary / Office Supplies,Book Stands / Lecterns
+1342,Stationary / Office Supplies,General Stationary / Office Supplies,Clamps / Clips
+1343,Stationary / Office Supplies,General Stationary / Office Supplies,Desktop Organizer
+1344,Stationary / Office Supplies,General Stationary / Office Supplies,Filing Organizer
+1345,Stationary / Office Supplies,General Stationary / Office Supplies,Glues
+1346,Stationary / Office Supplies,General Stationary / Office Supplies,Magnet / Pins
+1347,Stationary / Office Supplies,General Stationary / Office Supplies,Office Knives / Scissors
+1348,Stationary / Office Supplies,General Stationary / Office Supplies,Other General Stationary / Office Supplies
+1349,Stationary / Office Supplies,General Stationary / Office Supplies,Punches
+1350,Stationary / Office Supplies,General Stationary / Office Supplies,Rulers / Measuring Devices
+1351,Stationary / Office Supplies,General Stationary / Office Supplies,Staplers
+1352,Stationary / Office Supplies,General Stationary / Office Supplies,Stationary Sets
+1353,Stationary / Office Supplies,General Stationary / Office Supplies,Writing Boards
+1354,Stationary / Office Supplies,Party / Fancy Goods,Albums
+1355,Stationary / Office Supplies,Party / Fancy Goods,Balloons
+1356,Stationary / Office Supplies,Party / Fancy Goods,Cards
+1357,Stationary / Office Supplies,Party / Fancy Goods,Decoration Stickers
+1358,Stationary / Office Supplies,Party / Fancy Goods,Fireworks Goods
+1359,Stationary / Office Supplies,Party / Fancy Goods,Letter Paper / Envelopes
+1360,Stationary / Office Supplies,Party / Fancy Goods,Other Party / Fancy Goods
+1361,Stationary / Office Supplies,Party / Fancy Goods,Packaging Goods
+1362,Stationary / Office Supplies,Party / Fancy Goods,Party Decorations / Accessories
+1363,Stationary / Office Supplies,Party / Fancy Goods,Shopping Bags
+1364,Stationary / Office Supplies,Writing Pads,Elementary School Notebooks
+1365,Stationary / Office Supplies,Writing Pads,General Notebooks
+1366,Stationary / Office Supplies,Writing Pads,Household Ledgers
+1367,Stationary / Office Supplies,Writing Pads,Notebooks / Jotters
+1368,Stationary / Office Supplies,Writing Pads,Planners
+1369,Stationary / Office Supplies,Writing Supplies,Ballpoint Pens
+1370,Stationary / Office Supplies,Writing Supplies,Fountain Pens
+1371,Stationary / Office Supplies,Writing Supplies,Markers
+1372,Stationary / Office Supplies,Writing Supplies,Mechanical Pencils / Leads
+1373,Stationary / Office Supplies,Writing Supplies,Pencil Cases
+1374,Stationary / Office Supplies,Writing Supplies,Pencils
+1375,Stationary / Office Supplies,Writing Supplies,Signpens
+1376,Stationary / Office Supplies,Writing Supplies,Vivid Pens / Highlighters
+1377,Stationary / Office Supplies,Writing Supplies,Writing Correction Supplies
+1378,Stationary / Office Supplies,Writing Supplies,Writing Pen Sets
+1379,Stationary / Office Supplies,Writing Supplies,Writing Pens Parts
+1380,Substitute Foods,Breads,General Breads
+1381,Substitute Foods,Breads,Plain Breads
+1382,Substitute Foods,Cereals,Functional Cereals
+1383,Substitute Foods,Cereals,General Cereals
+1384,Substitute Foods,Dried Noodles,Korean Cold Noodles
+1385,Substitute Foods,Dried Noodles,Korean Glass Noodles
+1386,Substitute Foods,Dried Noodles,Noodles
+1387,Substitute Foods,Dried Noodles,Other Dried Noodles
+1388,Substitute Foods,Dried Noodles,Pasta Noodles
+1389,Substitute Foods,Dried Noodles,Tortilla / Wrapping Dish Materials
+1390,Substitute Foods,Dry Food Mix,Curry / Black Soybean Sauce Powder
+1391,Substitute Foods,Dry Food Mix,Soup Powder
+1392,Substitute Foods,Instant Cup Noodles,Bibim Cup Noodles
+1393,Substitute Foods,Instant Cup Noodles,Cup Noodles
+1394,Substitute Foods,Instant Noodles,Bibim Ramens
+1395,Substitute Foods,Instant Noodles,Ramens
+1396,Substitute Foods,Retort Pouches,Instant Bowl Of Rice With Toppings
+1397,Substitute Foods,Retort Pouches,Instant Cub Rice
+1398,Substitute Foods,Retort Pouches,Instant Curry / Black Soybean Sauce
+1399,Substitute Foods,Retort Pouches,Instant Noodles
+1400,Substitute Foods,Retort Pouches,Instant Porridge
+1401,Substitute Foods,Retort Pouches,Instant Rice
+1402,Substitute Foods,Retort Pouches,Instant Scorched Rice
+1403,Substitute Foods,Retort Pouches,Instant Soups
+1404,Substitute Foods,Retort Pouches,Korean Instant Soups
+1405,Substitute Foods,Retort Pouches,Other Retort Pouches
+1406,Tableware / Cooking Utensils,Cooking Utensils,Caldrons
+1407,Tableware / Cooking Utensils,Cooking Utensils,Cooking Utensil Sets
+1408,Tableware / Cooking Utensils,Cooking Utensils,Earthen Pots
+1409,Tableware / Cooking Utensils,Cooking Utensils,Frying Pans
+1410,Tableware / Cooking Utensils,Cooking Utensils,Grills / Griddles
+1411,Tableware / Cooking Utensils,Cooking Utensils,Kettles
+1412,Tableware / Cooking Utensils,Cooking Utensils,Oven Pans / Pizza Pans
+1413,Tableware / Cooking Utensils,Cooking Utensils,Pots
+1414,Tableware / Cooking Utensils,Cooking Utensils,Pressure Cooker
+1415,Tableware / Cooking Utensils,Kids' Tableware,Kids' Spoons / Chopsticks / Fork
+1416,Tableware / Cooking Utensils,Kids' Tableware,Kids' Tableware
+1417,Tableware / Cooking Utensils,Kids' Tableware,Kids' Tableware Sets
+1418,Tableware / Cooking Utensils,Kids' Tableware,Kids' Cups / Bottles
+1419,Tableware / Cooking Utensils,Tableware,Beverage Cups / Glasses
+1420,Tableware / Cooking Utensils,Tableware,Big Bowls
+1421,Tableware / Cooking Utensils,Tableware,Coffee Mugs
+1422,Tableware / Cooking Utensils,Tableware,Dessert Forks / Spoons
+1423,Tableware / Cooking Utensils,Tableware,Forks / Knives
+1424,Tableware / Cooking Utensils,Tableware,Korean Style Tableware / Homesets
+1425,Tableware / Cooking Utensils,Tableware,Liquior Cups / Glasses
+1426,Tableware / Cooking Utensils,Tableware,Plates
+1427,Tableware / Cooking Utensils,Tableware,Rice Bowls
+1428,Tableware / Cooking Utensils,Tableware,Sidedish plates
+1429,Tableware / Cooking Utensils,Tableware,Soup Bowls
+1430,Tableware / Cooking Utensils,Tableware,Spoons / Chopsticks
+1431,Tableware / Cooking Utensils,Tableware,Tableware Sets
+1432,Tableware / Cooking Utensils,Tableware,Utensils Used In Ancestral Rites
+1433,Tableware / Cooking Utensils,Vacuum Sealed / Storage Containers,Bottles For Fruit liquors
+1434,Tableware / Cooking Utensils,Vacuum Sealed / Storage Containers,Lunch Boxes
+1435,Tableware / Cooking Utensils,Vacuum Sealed / Storage Containers,Rice Pots
+1436,Tableware / Cooking Utensils,Vacuum Sealed / Storage Containers,Sauce Containers
+1437,Tableware / Cooking Utensils,Vacuum Sealed / Storage Containers,Sidedish Containers / Vacuum Sealed Containers
+1438,Tableware / Cooking Utensils,Vacuum Sealed / Storage Containers,Vacuum-insulated Bottles / Tumblers
+1439,Tableware / Cooking Utensils,Vacuum Sealed / Storage Containers,Vacuum-insulated Lunch Boxes
+1440,Tableware / Cooking Utensils,Vacuum Sealed / Storage Containers,Water Bottles
+1441,Tenants / Restaurants,Food Courts,Food Courts - Concessions
+1442,Tenants / Restaurants,Non-Foods Tenants,Amusement Facilities
+1443,Tenants / Restaurants,Non-Foods Tenants,Gas Stations
+1444,Tenants / Restaurants,Non-Foods Tenants,Opticians
+1445,Tenants / Restaurants,Non-Foods Tenants,Photo Studios
+1446,Tenants / Restaurants,Non-Foods Tenants,Small Theaters
+1447,Tenants / Restaurants,Restaurants,Bakery
+1448,Tenants / Restaurants,Restaurants,Buffet
+1449,Tenants / Restaurants,Restaurants,Chinese Foods
+1450,Tenants / Restaurants,Restaurants,Coffee / Drinks
+1451,Tenants / Restaurants,Restaurants,Dessert
+1452,Tenants / Restaurants,Restaurants,East Asia Foods
+1453,Tenants / Restaurants,Restaurants,Fast Foods / Junk Foods
+1454,Tenants / Restaurants,Restaurants,Japanese Foods
+1455,Tenants / Restaurants,Restaurants,Korean Foods
+1456,Tenants / Restaurants,Restaurants,Snacks
+1457,Tenants / Restaurants,Restaurants,Western Foods
+1458,Tobacco,Regular Cigarettes,Domestic Cigarettes
+1459,Tobacco,Regular Cigarettes,Imported Cigarettes
+1460,Tobacco,Special Cigarettes,Cigar / Other Special Cigarettes
+1461,Tools / Safety Supplies,Electrical Supplies,Batteries
+1462,Tools / Safety Supplies,Electrical Supplies,Electrical Materials
+1463,Tools / Safety Supplies,Electrical Supplies,Power Strips / Multi Taps
+1464,Tools / Safety Supplies,Improvement Supplies,Adhesives
+1465,Tools / Safety Supplies,Improvement Supplies,Hooks
+1466,Tools / Safety Supplies,Improvement Supplies,Moving Packages
+1467,Tools / Safety Supplies,Improvement Supplies,Wall Painting Supplies
+1468,Tools / Safety Supplies,Improvement Supplies,Work Gloves
+1469,Tools / Safety Supplies,Safety Equipment,Fire Safety Goods
+1470,Tools / Safety Supplies,Safety Equipment,Security Supplies
+1471,Tools / Safety Supplies,Tools,Handy Tools
+1472,Tools / Safety Supplies,Tools,Hardware
+1473,Tools / Safety Supplies,Tools,Power Tools
+1474,Toy,Boy's Toys,Assembly Toys
+1475,Toy,Boy's Toys,Boy's Role-playing Toys
+1476,Toy,Boy's Toys,Mini Cars
+1477,Toy,Boy's Toys,Remote Controls
+1478,Toy,Boy's Toys,Toy Figures
+1479,Toy,Boy's Toys,Trains / Rail Toys
+1480,Toy,Educational Toys,Art / Creative Toys
+1481,Toy,Educational Toys,Blocks
+1482,Toy,Educational Toys,Board Games
+1483,Toy,Educational Toys,Electronic Education Toys
+1484,Toy,Educational Toys,General Educational Toys
+1485,Toy,Educational Toys,Lego
+1486,Toy,Educational Toys,Music / Musical Instrument Toys
+1487,Toy,Educational Toys,Nature / Science Toys
+1488,Toy,Educational Toys,Puzzles
+1489,Toy,Electronic / Video Games,Game Consoles
+1490,Toy,Electronic / Video Games,Other Electronic / Video Games
+1491,Toy,Electronic / Video Games,Video Game Accessories
+1492,Toy,Electronic / Video Games,Video Game Software
+1493,Toy,Girl's Toys,Collection Dolls
+1494,Toy,Girl's Toys,DIY Toys
+1495,Toy,Girl's Toys,Dress / Accessories For Girl's toy
+1496,Toy,Girl's Toys,Fashion Dolls
+1497,Toy,Girl's Toys,Girl's Role-playings
+1498,Toy,Girl's Toys,Rag Dolls
+1499,Toy,Outdoor / Sports Toys,Outdoor Activity Toys
+1500,Toy,Outdoor / Sports Toys,Sport Toys
+1501,Toy,Outdoor / Sports Toys,Water Play Equipment
+1502,Toy,Toy Vehicles,Kids' Mortor Vehicles
+1503,Travel / Leisure Services,Travel and Leisure,Domestic Travel Packages
+1504,Travel / Leisure Services,Travel and Leisure,Oversea Travel Packages
+1505,Travel / Leisure Services,Vouchers / Tickets,Amusement Park Tickets
+1506,Underwear / Socks and Hosiery / Homewear,Homewear,Boy's Homewear
+1507,Underwear / Socks and Hosiery / Homewear,Homewear,Boy's Sleepwear
+1508,Underwear / Socks and Hosiery / Homewear,Homewear,Girl's Gowns / Robes
+1509,Underwear / Socks and Hosiery / Homewear,Homewear,Girl's Homewear
+1510,Underwear / Socks and Hosiery / Homewear,Homewear,Girl's Sleepwear
+1511,Underwear / Socks and Hosiery / Homewear,Homewear,Homewear Sets
+1512,Underwear / Socks and Hosiery / Homewear,Homewear,Men's Gowns / Robes
+1513,Underwear / Socks and Hosiery / Homewear,Homewear,Men's Homewears
+1514,Underwear / Socks and Hosiery / Homewear,Homewear,Men's Sleepwear
+1515,Underwear / Socks and Hosiery / Homewear,Homewear,Women's Gowns / Robes
+1516,Underwear / Socks and Hosiery / Homewear,Homewear,Women's Homewears
+1517,Underwear / Socks and Hosiery / Homewear,Homewear,Women's Sleepwear
+1518,Underwear / Socks and Hosiery / Homewear,Kids' Socks and Hosiery,Kids' Casual Sport Socks and Hosiery
+1519,Underwear / Socks and Hosiery / Homewear,Kids' Socks and Hosiery,Kids' General Socks and Hosiery
+1520,Underwear / Socks and Hosiery / Homewear,Kids' Socks and Hosiery,Kids' Knee Socks / Overkness Socks
+1521,Underwear / Socks and Hosiery / Homewear,Kids' Socks and Hosiery,Kids' Socks and Hosiery Gift Sets
+1522,Underwear / Socks and Hosiery / Homewear,Kids' Socks and Hosiery,Kids' Tights
+1523,Underwear / Socks and Hosiery / Homewear,Kids' Socks and Hosiery,Other Kids' Socks and Hosiery Sets
+1524,Underwear / Socks and Hosiery / Homewear,Kids' Underwear,Kids' Panties
+1525,Underwear / Socks and Hosiery / Homewear,Kids' Underwear,Kids' Thermal Underwear
+1526,Underwear / Socks and Hosiery / Homewear,Kids' Underwear,Kids' Undershirts
+1527,Underwear / Socks and Hosiery / Homewear,Kids' Underwear,Kids' Underwear Sets
+1528,Underwear / Socks and Hosiery / Homewear,Men's Socks and Hosiery,Men's Bed Socks and Hosiery
+1529,Underwear / Socks and Hosiery / Homewear,Men's Socks and Hosiery,Men's Casual Sport Socks and Hosiery
+1530,Underwear / Socks and Hosiery / Homewear,Men's Socks and Hosiery,Men's General Socks and Hosiery
+1531,Underwear / Socks and Hosiery / Homewear,Men's Socks and Hosiery,Men's Liner Socks
+1532,Underwear / Socks and Hosiery / Homewear,Men's Socks and Hosiery,Men's Socks and Hosiery Gift Sets
+1533,Underwear / Socks and Hosiery / Homewear,Men's Socks and Hosiery,Men's Toe Socks and Hosiery
+1534,Underwear / Socks and Hosiery / Homewear,Men's Underwear,Men's Panties
+1535,Underwear / Socks and Hosiery / Homewear,Men's Underwear,Men's Thermal Underwear
+1536,Underwear / Socks and Hosiery / Homewear,Men's Underwear,Men's Undershirts
+1537,Underwear / Socks and Hosiery / Homewear,Men's Underwear,Men's Underwear Sets
+1538,Underwear / Socks and Hosiery / Homewear,Underwear / Socks and Hosiery / Homewear Sets,Men and Women's Socks and Hosiery Sets
+1539,Underwear / Socks and Hosiery / Homewear,Underwear / Socks and Hosiery / Homewear Sets,Men and Women's Underwear Sets
+1540,Underwear / Socks and Hosiery / Homewear,Underwear / Socks and Hosiery / Homewear Sets,Other Underwear / Socks and Hosiery / Homewear Sets
+1541,Underwear / Socks and Hosiery / Homewear,Women's Socks and Hosiery,Knee Socks / Over Knee Socks
+1542,Underwear / Socks and Hosiery / Homewear,Women's Socks and Hosiery,Stockings
+1543,Underwear / Socks and Hosiery / Homewear,Women's Socks and Hosiery,Women's Bed Socks and Hosiery
+1544,Underwear / Socks and Hosiery / Homewear,Women's Socks and Hosiery,Women's Casual Sport Socks and Hosiery
+1545,Underwear / Socks and Hosiery / Homewear,Women's Socks and Hosiery,Women's General Socks and Hosiery
+1546,Underwear / Socks and Hosiery / Homewear,Women's Socks and Hosiery,Women's Liner Socks
+1547,Underwear / Socks and Hosiery / Homewear,Women's Socks and Hosiery,Women's Socks and Hosiery Gift Sets
+1548,Underwear / Socks and Hosiery / Homewear,Women's Socks and Hosiery,Women's Tights
+1549,Underwear / Socks and Hosiery / Homewear,Women's Underwear,All-In-One Underwear
+1550,Underwear / Socks and Hosiery / Homewear,Women's Underwear,Bras
+1551,Underwear / Socks and Hosiery / Homewear,Women's Underwear,Maternity Underwear
+1552,Underwear / Socks and Hosiery / Homewear,Women's Underwear,Other Women's Underwear
+1553,Underwear / Socks and Hosiery / Homewear,Women's Underwear,Slip
+1554,Underwear / Socks and Hosiery / Homewear,Women's Underwear,Thigh Slimmer
+1555,Underwear / Socks and Hosiery / Homewear,Women's Underwear,Women's Panties
+1556,Underwear / Socks and Hosiery / Homewear,Women's Underwear,Women's Thermal Underwear
+1557,Underwear / Socks and Hosiery / Homewear,Women's Underwear,Women's Undershirts & Camisoles
+1558,Underwear / Socks and Hosiery / Homewear,Women's Underwear,Women's Underwear Sets
+1559,Vegetables,Chinese Herb Medicines,Ginsengs
+1560,Vegetables,Chinese Herb Medicines,Korean angelica Root
+1561,Vegetables,Chinese Herb Medicines,Licorice / Cinnamon
+1562,Vegetables,Chinese Herb Medicines,Milk Vetch Roots
+1563,Vegetables,Chinese Herb Medicines,Mushrooms for Medical Use
+1564,Vegetables,Chinese Herb Medicines,Other Oriental Medicine Ingredients
+1565,Vegetables,Fruit Vegetables,Corns
+1566,Vegetables,Fruit Vegetables,Cucumbers
+1567,Vegetables,Fruit Vegetables,Dried Peppers
+1568,Vegetables,Fruit Vegetables,Eggplants
+1569,Vegetables,Fruit Vegetables,Other Fruit Vegetables
+1570,Vegetables,Fruit Vegetables,Paprika
+1571,Vegetables,Fruit Vegetables,Peppers
+1572,Vegetables,Fruit Vegetables,Sweet Pumpkins
+1573,Vegetables,Fruit Vegetables,Young Pumpkins
+1574,Vegetables,Korean Greens / Namuls,Dried Greens / Namuls
+1575,Vegetables,Korean Greens / Namuls,Fresh Greens / Namuls
+1576,Vegetables,Korean Greens / Namuls,Steamed Greens / Namuls
+1577,Vegetables,Leaf Vegetables,Beet Leaves
+1578,Vegetables,Leaf Vegetables,Chives
+1579,Vegetables,Leaf Vegetables,Crown Daisy
+1580,Vegetables,Leaf Vegetables,Garlic
+1581,Vegetables,Leaf Vegetables,Jumbo Spring Onions
+1582,Vegetables,Leaf Vegetables,Korean Cabbages
+1583,Vegetables,Leaf Vegetables,Korean Lettuces
+1584,Vegetables,Leaf Vegetables,Onions
+1585,Vegetables,Leaf Vegetables,Other Leaf Vegetables
+1586,Vegetables,Leaf Vegetables,Salted Cabbages
+1587,Vegetables,Leaf Vegetables,Sesame Leaves
+1588,Vegetables,Leaf Vegetables,Spinaches
+1589,Vegetables,Leaf Vegetables,Spring Onions
+1590,Vegetables,Leaf Vegetables,Water Parsley
+1591,Vegetables,Leaf Vegetables,Winter-grown Cabbages
+1592,Vegetables,Leaf Vegetables,Wrapping Vegetables
+1593,Vegetables,Mushrooms,Assorted Mushrooms
+1594,Vegetables,Mushrooms,Button Mushrooms
+1595,Vegetables,Mushrooms,Dried Mushrooms
+1596,Vegetables,Mushrooms,Enoki Mushrooms
+1597,Vegetables,Mushrooms,Other Mushrooms
+1598,Vegetables,Mushrooms,Oyster Mushrooms
+1599,Vegetables,Mushrooms,Pine mushrooms
+1600,Vegetables,Mushrooms,Saesongi Mushrooms
+1601,Vegetables,Mushrooms,Shiitake Mushrooms
+1602,Vegetables,Root Vegetables,Altari Radishes
+1603,Vegetables,Root Vegetables,Burdocks
+1604,Vegetables,Root Vegetables,Carrots
+1605,Vegetables,Root Vegetables,Gingers
+1606,Vegetables,Root Vegetables,Lotus Root
+1607,Vegetables,Root Vegetables,Other Root Vegetables
+1608,Vegetables,Root Vegetables,Potatoes
+1609,Vegetables,Root Vegetables,Radishes
+1610,Vegetables,Root Vegetables,Sweet Potatoes
+1611,Vegetables,Root Vegetables,Yams
+1612,Vegetables,Root Vegetables,Young Radishes
+1613,Vegetables,Tofu / Bean Sprouts,Muks
+1614,Vegetables,Tofu / Bean Sprouts,Mung Bean Sprouts
+1615,Vegetables,Tofu / Bean Sprouts,Silken Tofu
+1616,Vegetables,Tofu / Bean Sprouts,Soybean Sprouts
+1617,Vegetables,Tofu / Bean Sprouts,Tofu
+1618,Vegetables,Vegetable Gift Sets,Deodeok Gift Sets
+1619,Vegetables,Vegetable Gift Sets,Fresh Ginseng Gift Sets
+1620,Vegetables,Vegetable Gift Sets,Mixed Vegetable Gift Sets
+1621,Vegetables,Vegetable Gift Sets,Mushroom Gift Sets
+1622,Vegetables,Western Vegetables,Broccoli
+1623,Vegetables,Western Vegetables,Cabbages
+1624,Vegetables,Western Vegetables,Cauliflower
+1625,Vegetables,Western Vegetables,Lettuces
+1626,Vegetables,Western Vegetables,Mini Cabbages
+1627,Vegetables,Western Vegetables,Other Western Vegetables
+1628,Vegetables,Western Vegetables,Salads
+1629,Video / Audio System Electronics,Audios,Audio Accessories
+1630,Video / Audio System Electronics,Audios,Audio Amplifiers / Speakers
+1631,Video / Audio System Electronics,Cameras / Camcorders,Camcorders
+1632,Video / Audio System Electronics,Cameras / Camcorders,Camera Accessories
+1633,Video / Audio System Electronics,Cameras / Camcorders,Camera Lenses
+1634,Video / Audio System Electronics,Cameras / Camcorders,DSLR
+1635,Video / Audio System Electronics,Cameras / Camcorders,Hybrids Cameras
+1636,Video / Audio System Electronics,Cameras / Camcorders,Other Cameras
+1637,Video / Audio System Electronics,Small Digital Appliances,MP3 Players
+1638,Video / Audio System Electronics,Small Digital Appliances,Small Digital Appliances / Accessories
+1639,Video / Audio System Electronics,Small Digital Appliances,Voice Recorders
+1640,Video / Audio System Electronics,TVs,LED
+1641,Video / Audio System Electronics,TVs,Other TVs
+1642,Video / Audio System Electronics,TVs,TV Stand
+1643,Women's Clothing,Women's Clothing Sets,Other Women's Clothing Sets
+1644,Women's Clothing,Women's Full Bodywear,Women's Dresses
+1645,Women's Clothing,Women's Full Bodywear,Women's Jumpsuits / Overalls
+1646,Women's Clothing,Women's Lower Bodywear / Bottoms,Women's Jeans
+1647,Women's Clothing,Women's Lower Bodywear / Bottoms,Women's Leggings
+1648,Women's Clothing,Women's Lower Bodywear / Bottoms,Women's Pants
+1649,Women's Clothing,Women's Lower Bodywear / Bottoms,Women's Skirts
+1650,Women's Clothing,Women's Outwear,Women's Coats
+1651,Women's Clothing,Women's Outwear,Women's Jackets
+1652,Women's Clothing,Women's Outwear,Women's Jumpers
+1653,Women's Clothing,Women's Outwear,Women's Paddingwear
+1654,Women's Clothing,Women's Outwear,Women's Trench Coats
+1655,Women's Clothing,Women's Special Materials Clothing,Women's Fur Coats
+1656,Women's Clothing,Women's Special Materials Clothing,Women's Leather Clothing
+1657,Women's Clothing,Women's Special Use Clothing,Maternity Clothing
+1658,Women's Clothing,Women's Special Use Clothing,Other Women's Special Use Clothing
+1659,Women's Clothing,Women's Special Use Clothing,Women's Costumes
+1660,Women's Clothing,Women's Special Use Clothing,Women's Fashion Trainingwear
+1661,Women's Clothing,Women's Upper Bodywear / Tops,Women's Blouses
+1662,Women's Clothing,Women's Upper Bodywear / Tops,Women's Button-Down Shirts
+1663,Women's Clothing,Women's Upper Bodywear / Tops,Women's Cardigans
+1664,Women's Clothing,Women's Upper Bodywear / Tops,Women's Sweaters / Pullover
+1665,Women's Clothing,Women's Upper Bodywear / Tops,Women's Sweatshirts / Hoodies
+1666,Women's Clothing,Women's Upper Bodywear / Tops,Women's T-shirts / Tops
+1667,Women's Clothing,Women's Upper Bodywear / Tops,Women's Vests
