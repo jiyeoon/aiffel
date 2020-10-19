@@ -120,7 +120,13 @@ aiffel 1기 교육과정 정리하기
     - Going Deeper Proj1 : [없다면 어떻게 될까? (Ablation Study)]()
 
 - Week 12
-    - Exploration 18 : 뉴스 요약봇 만들기
-    - Exploration 19 : 흐린 사진을 선명하게
+    - Exploration 18 : [뉴스 요약봇 만들기](./Week11/Exploration18\(1\).ipynb)
+    - Exploration 19 : [흐린 사진을 선명하게](./Week11/Exploration19\(1\).ipynb)
     - Going Deeper Lec2 : 잘 만든 augmentation 이미지 100장 안부럽다
     - Going Deeper Proj2 : 이미지 어디까지 우려볼까?
+
+- Week 13
+    - Exploration 20 : 어라? 이 시계열 이상한데? (Anomaly Detection)
+    - Exploration 21 : 트랜스포머로 만드는 대화형 챗봇
+    - Going Deeper Lec3 : Object Detection
+    - Going Deeper Proj3 : GO/STOP! - Object Detection 시스템 만들기
