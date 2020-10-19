@@ -116,7 +116,7 @@ aiffel 1기 교육과정 정리하기
 - Week 11
     - Exploration 16 : [인공지능으로 세상에 없던 새로운 패션만들기](./Week10/Exploration16\(2\).ipynb)
     - Exploration 17 : [문자를 읽을 수 있는 딥러닝](./Week10/Exploration17\(1\).ipynb)
-    - Going Deeper Lec1 : [백본 네트워크 구조 상세 분석]()
+    - Going Deeper Lec1 : [백본 네트워크 구조 상세 분석](./Week10/GoingDeeper1Lec.md)
     - Going Deeper Proj1 : [없다면 어떻게 될까? (Ablation Study)]()
 
 - Week 12
