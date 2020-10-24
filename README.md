@@ -117,16 +117,16 @@ aiffel 1기 교육과정 정리하기
     - Exploration 16 : [인공지능으로 세상에 없던 새로운 패션만들기](./Week10/Exploration16\(2\).ipynb)
     - Exploration 17 : [문자를 읽을 수 있는 딥러닝](./Week10/Exploration17\(1\).ipynb)
     - Going Deeper Lec1 : [백본 네트워크 구조 상세 분석](./Week10/GoingDeeper1Lec.md)
-    - Going Deeper Proj1 : [없다면 어떻게 될까? (Ablation Study)]()
+    - Going Deeper Proj1 : [없다면 어떻게 될까? (Ablation Study)](./Week10/GoingDeeper1proj.ipynb)
 
 - Week 12
     - Exploration 18 : [뉴스 요약봇 만들기](./Week11/Exploration18\(1\).ipynb)
     - Exploration 19 : [흐린 사진을 선명하게](./Week11/Exploration19\(1\).ipynb)
     - Going Deeper Lec2 : 잘 만든 augmentation 이미지 100장 안부럽다
-    - Going Deeper Proj2 : 이미지 어디까지 우려볼까?
+    - Going Deeper Proj2 : [이미지 어디까지 우려볼까?](./Week11/GoingDeeper2proj\(1\).ipynb)
 
 - Week 13
-    - Exploration 20 : 어라? 이 시계열 이상한데? (Anomaly Detection)
-    - Exploration 21 : 트랜스포머로 만드는 대화형 챗봇
+    - Exploration 20 : [어라? 이 시계열 이상한데? (Anomaly Detection)](./Week12/Exploration20\(2\).ipynb)
+    - Exploration 21 : [트랜스포머로 만드는 대화형 챗봇](./Week12/Exploration21\(2\).ipynb)
     - Going Deeper Lec3 : Object Detection
     - Going Deeper Proj3 : GO/STOP! - Object Detection 시스템 만들기
