@@ -130,3 +130,5 @@ aiffel 1기 교육과정 정리하기
     - Exploration 21 : [트랜스포머로 만드는 대화형 챗봇](./Week12/Exploration21\(2\).ipynb)
     - Going Deeper Lec3 : Object Detection
     - Going Deeper Proj3 : GO/STOP! - Object Detection 시스템 만들기
+
+- Week 14
