@@ -136,3 +136,5 @@ aiffel 1기 교육과정 정리하기
     - Exploration23 : 다음에 볼 영화 예측하기
     - Going Deeper Lec4 : [물체를 분리하자! - 세그멘테이션 살펴보기](./Week13/GoingDeeper4Lec.md)
     - Going Deeper Proj4 : 도로 영역을 찾자! - 세그멘테이션 모델 만들기
+
+- Week 15
