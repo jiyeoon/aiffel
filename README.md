@@ -138,3 +138,9 @@ aiffel 1기 교육과정 정리하기
     - Going Deeper Proj4 : 도로 영역을 찾자! - 세그멘테이션 모델 만들기
 
 - Week 15
+    - Exploration 24 : 난 스케치를 할테니 너는 채색을 하거라
+    - Exploration 25 : 사람이 말하는 단어를 인공지능 모델로 구분해보자
+    - Going Deeper Lec5 : 너의 속이 궁금해 - Class Activation Map 살펴보기
+    - Going Deeper Proj5 : 나를 찾아줘 - Class Activation Map 만들기
+
+- Week 16
