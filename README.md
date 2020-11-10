@@ -144,3 +144,4 @@ aiffel 1기 교육과정 정리하기
     - Going Deeper Proj5 : 나를 찾아줘 - Class Activation Map 만들기
 
 - Week 16
+    - Exploration 26 : 
