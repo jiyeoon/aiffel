@@ -140,8 +140,20 @@ aiffel 1기 교육과정 정리하기
 - Week 15
     - Exploration 24 : 난 스케치를 할테니 너는 채색을 하거라
     - Exploration 25 : 사람이 말하는 단어를 인공지능 모델로 구분해보자
-    - Going Deeper Lec5 : 너의 속이 궁금해 - Class Activation Map 살펴보기
-    - Going Deeper Proj5 : 나를 찾아줘 - Class Activation Map 만들기
+    - Going Deeper Lec5 : [너의 속이 궁금해 - Class Activation Map 살펴보기](./Week15/GoingDeeper5Lec.md)
+    - Going Deeper Proj5 : [나를 찾아줘 - Class Activation Map 만들기](./Week15/GoingDeeper5proj\(2\).ipynb)
 
 - Week 16
-    - Exploration 26 : ㅇ
+    - Exploration 26 : 인간보다 퀴즈를 잘푸는 인공지능
+    - Exploration 27 : 의료영상 U-NET 용종 검출
+    - Going Deeper Lec 6 : OCR 기술의 개요
+    - Going Deeper Proj 6 : 직접 만들어보는 OCR
+
+- Week 17
+    - Exploration 28 : 이미지 이상탐지 모델(GAN)
+    - Exploration 29 : Ainize, 나의 원클릭 포트폴리오 만들기
+    - Going Deeper Lec 7 : 카메라 스티커앱을 개선하자
+    - Going Deeper Proj 7 : 추론하는 인공지능
+
+- Week 18
+    - 
