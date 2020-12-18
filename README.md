@@ -156,4 +156,4 @@ aiffel 1기 교육과정 정리하기
     - Going Deeper Proj 7 : 추론하는 인공지능
 
 - Week 18
-    - Exploration 30 : dfㅇ
+    - Exploration 30 : df
